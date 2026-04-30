@@ -2,7 +2,7 @@
 
 # Z-Image 提示词精选集
 
-> 160 条精选 Z-Image Turbo 提示词（附预览图），持续更新。
+> 166 条精选 Z-Image Turbo 提示词（附预览图），持续更新。
 
 [![GitHub Stars](https://img.shields.io/github/stars/tiktomato/awesome-z-image-prompts?style=for-the-badge)](https://github.com/tiktomato/awesome-z-image-prompts)
 
@@ -10,394 +10,38 @@
 
 ## 分类
 
+- [摄影](#photography) (31)
+- [信息图](#infographic) (11)
+- [海报](#poster) (15)
+- [漫画](#comic) (11)
 - [头像](#avatar) (4)
 - [社交媒体](#social) (10)
-- [信息图](#infographic) (9)
 - [视频封面](#thumbnail) (8)
-- [海报](#poster) (14)
 - [产品广告](#product) (13)
-- [摄影](#photography) (29)
 - [美食](#food) (9)
 - [建筑](#architecture) (13)
 - [艺术创意](#art) (18)
-- [漫画](#comic) (10)
 - [UI 设计](#ui) (23)
 
 ---
 
-## 头像 <a id="avatar"></a>
-
-### 奇幻女战士头像
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_68ed6e28bb744ae8b68ea46cc065567d_0.webp" width="500" />
-
-> 一位凶悍女战士的高精度数字头像，双眼发光，手持利剑，暗黑奇幻风格，铠甲细节精致入微，高分辨率。
-
-### 赛博朋克外星人头像
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_605322e956784dd39f1cd7ef39cce4cf_0.webp" width="500" />
-
-> 一个未来风格的外星生物头像，拥有多只眼睛和触手，赛博朋克场景，霓虹光效细节，高科技元素。
-
-### 帅气男性头像
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_721a4d745e13469ba925c9dc146d5bef_0.webp" width="500" />
-
-> 一个帅气的年轻男性头像，戴着眼镜，背景是城市夜景，细节丰富，照明柔和
-
-### 幻想精灵头像
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_def40e2271e34342989a8c833e631a2b_0.webp" width="500" />
-
-> 一个奇幻角色头像，精灵耳朵搭配神秘铠甲，面部特征精致入微，魔法背景。
-
----
-
-## 社交媒体 <a id="social"></a>
-
-### 社交媒体横幅
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_6f54c7c82f2142df94220d2307f446b7_0.webp" width="500" />
-
-> 一张为科技大会设计的活力社交媒体横幅，融合抽象几何图形，蓝绿配色，现代字体，搭配笔记本和网络图标。
-
-### 社区活动社交图
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_84b535a14c3c4e3da41a5f1fdfed1c58_0.webp" width="500" />
-
-> 一张为社区活动设计的社交媒体宣传图，多元化人群互动，传递正能量，配色缤纷且具包容性。
-
-### 朋友聚会社交照
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_ce573cddefc1490cbecc4e1683d16adc_0.webp" width="500" />
-
-> 社交媒体上的朋友聚会照片，背景是咖啡店，大家笑容满面，氛围轻松
-
-### 气候变化社交图
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_fb77ce31d6da4e48bc7557d7ed68f6c7_0.webp" width="500" />
-
-> 一张关于气候变化的社交媒体图片：展现融化的冰山与举牌呼吁的人群，醒目标语「立即行动」，适合 Instagram 发布。
-
-### 环保社交图片
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_84449289275946aebdbe754e00e26585_0.webp" width="500" />
-
-> 一张森林保护主题的社交媒体图片：树木、动物与回收标志，叠加文字「保护我们的地球」，环保配色。
-
-### 健康饮食社交帖
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_da30f2df43294b1597d90c6c48921913_0.webp" width="500" />
-
-> 设计一张健康饮食社交媒体帖子：展示新鲜水果蔬菜与均衡膳食盘，配上健康小贴士文字和分享按钮图标。
-
-### 励志社交图片
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_b9248d7ba690425cbda9a51a089f4f84_0.webp" width="500" />
-
-> 一张励志社交媒体图片：多元化人群达成目标的场景，配上鼓舞人心的名言和健身元素，适合 Twitter 发布。
-
-### 旅行社交帖子
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_b97fb98333aa4d22a9a11916399e23ad_0.webp" width="500" />
-
-> 一张旅行主题社交媒体图片：异域海滩与旅行攻略，叠加世界地图，配文「漫游探险之旅」，适合 Instagram 故事。
-
-### 社交媒体环保海报
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_8e5964706c8540e6ae74e184ccf256bd_0.webp" width="500" />
-
-> 创建社交媒体内容：以绿色主题展示环境保护图，包含树木、动物和口号 '保护地球'，适合微信分享，使用 z-image-turbo。
-
-### 社交媒体时尚分享
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_b99a5fb4f75046d58f85e42c2db84549_0.webp" width="500" />
-
-> 制作社交媒体图片：展示流行时尚搭配、模特和购物图标，添加 '潮流趋势' 文字，优化为微博内容，使用 z-image-turbo。
-
----
-
-## 信息图 <a id="infographic"></a>
-
-### 健康饮食信息图
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_0ca02add30bf4746ae85f2345fc6b9fa_0.webp" width="500" />
-
-> 一张关于健康饮食的科普信息图，包含营养摄入图表，搭配色彩丰富的水果蔬菜插画，版面简洁易读。
-
-### 气候变化信息图
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_f6f85c8f1d6b4d7ba8aa2f71823ffabf_0.webp" width="500" />
-
-> 关于气候变化的信息图表，包含图表和图标，颜色警示性强，易懂布局
-
-### 科技增长信息图
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_0b985a21810343548697124a1eb43781_0.webp" width="500" />
-
-> 一张科技行业增长信息图：以柱状图和折线图展示2010至2023年全球科技产业发展，配合AI、区块链和云计算图标，蓝绿配色的简洁现代风格。
-
-### 数据统计信息图
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_88d0f949e80941f89e62b3d2ad3a2e95_0.webp" width="500" />
-
-> 一张社交媒体数据信息图：展示2023年各平台使用统计，包含TikTok和Twitter的饼图、用户图标，未来科技感设计。
-
-### 电商市场趋势图
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_22dd55473fa24a63b92a7025e89e514b_0.webp" width="500" />
-
-> 一张电商市场趋势信息图：以上升箭头、销售数据图表和产品图标呈现，极简黑白风格。
-
-### 全球经济信息图
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_3191d7aa8ba1420b9a5e07fdf3e34afb_0.webp" width="500" />
-
-> 一张全球经济指标信息图：以地图、柱状图和货币符号展示GDP与通胀率数据，专业版式布局。
-
-### 在线教育信息图
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_40d9bab4e8df483eb96bdc0129f50400_0.webp" width="500" />
-
-> 一张在线学习统计信息图：展示入学人数图表、书本图标和增长趋势，明亮的教育主题配色。
-
-### 科技趋势信息图
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_00dbf74a0384453fb0b16bf540c7c827_0.webp" width="500" />
-
-> 使用 z-image-turbo 生成信息图：展示人工智能发展趋势，包括图表、图标和数据统计，采用现代蓝白配色，主题为 'AI 未来展望'。
-
-### 健康数据信息图
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_ff1b3ec8674f4b3985b10961bc20358e_0.webp" width="500" />
-
-> 生成信息图：显示健康生活数据图表，包括饮食和运动图标，采用活力色彩，标题 '健康生活指南'，使用 z-image-turbo。
-
----
-
-## 视频封面 <a id="thumbnail"></a>
-
-### 游戏缩略图
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_be957669daed4fb393da01e39eda0e8f_0.webp" width="500" />
-
-> 一个动态的游戏缩略图，展示未来主义城市背景下的英雄人物，红色和黑色调，爆炸效果，高清细节，适合 YouTube 视频。
-
-### 科技教程缩略图
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_73d3660112e145cabea47a362e78e960_0.webp" width="500" />
-
-> YouTube 视频缩略图，主题是科技教程，包含设备图标和文字，视觉吸引人
-
-### 游戏视频缩略图
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_175d91d67da54e13975894fdd443fcb3_0.webp" width="500" />
-
-> 设计一张 YouTube 游戏缩略图：玩家正在进行堡垒之夜对战的动态场景，爆炸特效，红色标题「史诗级制胜攻略」，配合行动号召按钮。
-
-### 编程教程缩略图
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_70211a425b114736abce3a15f0374b97_0.webp" width="500" />
-
-> 设计一张 YouTube 教程缩略图：展示笔记本屏幕上的代码片段，一个好奇的卡通形象，配文「快速学会 Python」。
-
-### 音乐榜单缩略图
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_dd0f3eeb27274cbea4df7cec2c05b55b_0.webp" width="500" />
-
-> 设计一张 YouTube 音乐缩略图：流行明星专辑封面搭配霓虹灯光和耳机，发光字体「2023年度十大金曲」。
-
-### 烹饪视频缩略图
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_988d7de343e4412694cd546d3d6be5c3_0.webp" width="500" />
-
-> 设计一张 YouTube 烹饪缩略图：厨师正在制作意面，蒸汽升腾，食材清单旁配文「简单意式食谱」。
-
-### 健身挑战缩略图
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_bc1d83943abe493cad48afa44cab9f99_0.webp" width="500" />
-
-> 设计一张 YouTube 健身缩略图：运动员在训练中挥汗如雨，配有计时器和文字「30天健身挑战」。
-
-### YouTube 游戏缩略图
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_c5c8c5135f6144e8a2f62768f77758ee_0.webp" width="500" />
-
-> 设计 YouTube 缩略图：展示游戏场景如 PUBG 战场，添加爆炸效果和文字 '终极生存指南'，通过 z-image-turbo 生成。
-
----
-
-## 海报 <a id="poster"></a>
-
-### 环保公益海报
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_3ef5db31e60a485b80984a099dcb5653_0.webp" width="500" />
-
-> 一张富有感召力的环保海报，森林场景中展现濒危动物，醒目标语「拯救地球」，写实风格，柔和光线。
-
-### 摇滚音乐节海报
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_1b27454911d746d38f6ba9b589b58432_0.webp" width="500" />
-
-> 一张为摇滚音乐节设计的缤纷海报，乐队剪影搭配舞台灯光，标注演出日期和场地，充满活力。
-
-### 环保宣传海报
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_c620290c91e14b46b71b1504b16a0b68_0.webp" width="500" />
-
-> 一个环境保护主题的海报，颜色鲜艳，包含地球图像和绿色元素，文字醒目，风格现代化
-
-### 摇滚乐队海报
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_c551ae6930a94b5b9a7502404a08dbd5_0.webp" width="500" />
-
-> 一张摇滚乐队演唱会海报，展现乐队成员与电吉他，粗犷有力的字体排版。
-
-### 科技数码产品海报
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_21318de8c1d1411b8828668e56fd54ee_0.webp" width="500" />
-
-> 一张高分辨率的无线耳机海报，展示未来感设计，搭配霓虹灯光和动感姿态，商业级品质。
-
-### 时尚品牌海报
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_1f077acc97c6447abc8b0bf262256aea_0.webp" width="500" />
-
-> 一张奢侈时尚品牌的商业海报，模特身着华丽礼服行走于都市街头，戏剧性灯光搭配金色点缀，高细节呈现。
-
-### 美妆产品海报
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_22057f235e5d4460bf37384e18e1a466_0.webp" width="500" />
-
-> 一张有机护肤品的鲜艳宣传海报，水润肌肤特写搭配天然植物成分，柔和粉彩色系。
-
-### 旅行社宣传海报
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_b2676b9006ac4a34a0665ba6013613eb_0.webp" width="500" />
-
-> 一张旅行社的推广海报，描绘异域海滩与探险之旅，热带色彩搭配诱人文案，引人入胜。
-
-### 汽车宣传海报
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_d1e6f9bf45c44325a656385b541028f2_0.webp" width="500" />
-
-> 一张动感十足的电动汽车海报，流线型车身行驶在夜间城市街道，霓虹灯倒影映衬，高分辨率。
-
-### 新书发布海报
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_e14960b688154d42b109521703fd008b_0.webp" width="500" />
-
-> 一部科幻小说的发布海报，宇宙元素与神秘人物剪影，粗犷字体搭配星际色彩。
-
-### 餐厅推广海报
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_887205712da246899766aa8d66fef8ef_0.webp" width="500" />
-
-> 一张新开餐厅的诱人宣传海报，精致菜肴冒着热气散发香气，温暖灯光与菜单亮点。
-
-### 活动赞助海报
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_dd0922790c2c4fbc9525f7d3d7111676_0.webp" width="500" />
-
-> 一张音乐节赞助海报，舞台灯光闪烁，人群沸腾，乐队剪影，风格鲜艳动感。
-
-### 饮品品牌海报
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_d984002322ee47b78765d9312d97c975_0.webp" width="500" />
-
-> 一张清爽的新款能量饮料海报，运动员的动态身姿与气泡飞溅效果，醒目品牌标识。
-
-### 电影宣传海报
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_257d408bc35348b0bd0acb9d5b95e000_0.webp" width="500" />
-
-> 一部动作电影的商业海报，英雄在史诗战斗中爆炸与戏剧性姿态，细节精致。
-
----
-
-## 产品广告 <a id="product"></a>
-
-### 奢华腕表产品图
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_fa03b01bc7b748bcae9e9b46e10962b2_0.webp" width="500" />
-
-> 一个精致的奢侈手表产品渲染，银色表盘，钻石装饰，放在优雅的木质背景上，专业摄影风格，高清细节。
-
-### 高端手机产品照
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_8868a5ed909341c6b5c963a8a7b93122_0.webp" width="500" />
-
-> 一个高端智能手机的产品照，展示细节如摄像头和屏幕，反光效果自然，背景简约
-
-### 奢侈手表展示
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_490a52624b7a4147bb4d41b87f999bb9_0.webp" width="500" />
-
-> 一枚奢华腕表置于木桌上，精密细节与柔和阴影，专业商业产品摄影。
-
-### 环保产品广告
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_570583ffe10d4e2580c437e70fbcb2a5_0.webp" width="500" />
-
-> 一张环保可重复使用水壶的广告海报，清澈水流与绿叶点缀，极简风格搭配醒目文字。
-
-### 智能家居产品广告
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_0eeede99188d45d4be147f5aff7d9657_0.webp" width="500" />
-
-> 智能家居安防摄像头产品广告，展现科技融入现代住宅的场景，写实渲染，传递安全可靠感。
-
-### 健身器材广告
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_86721e596bd4438fa0686584974c4bf8_0.webp" width="500" />
-
-> 高端跑步机商业广告，运动员奔跑中的动感画面，搭配激励文案，高能量色彩与锐利细节。
-
-### 厨房电器广告
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_e40d3ed94337410da44ea461b8e1996b_0.webp" width="500" />
-
-> 一款高端料理机产品广告，新鲜水果被搅打时水花四溅，厨房场景明亮通透。
-
-### 健康保健品广告
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_3cfbe955da424792880f5ce16c4e608c_0.webp" width="500" />
-
-> 天然维生素商业广告，健康活力的人群散发能量光环，宁静自然背景。
-
-### 游戏主机广告
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_6e80d7362ce04c3296e8a7fd29fe2277_0.webp" width="500" />
-
-> 次世代游戏主机产品广告，展现沉浸式游戏画面，鲜艳画面与兴奋的玩家。
-
-### 智能穿戴广告
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_5e7b6d4aada545da9ba6ab2097293715_0.webp" width="500" />
-
-> 智能手表商业广告，跑步者在公园中展示运动追踪功能，数据叠加与现代设计。
-
-### 家居装饰广告
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_3377352a0d2843668872d72bc59e4881_0.webp" width="500" />
-
-> 时尚家居饰品广告，花瓶与靠垫等物品在温馨客厅中陈列，柔和灯光。
-
-### 电子产品套装广告
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_c58d90869c624522b5c4e7e5ea69da7c_0.webp" width="500" />
-
-> 无线耳机与充电器套装产品广告，科技产品艺术化排列，散发高科技光泽。
-
-### 户外装备广告
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_6a1add8860f54cf6b8ddaedae6c2409a_0.webp" width="500" />
-
-> 登山背包广告，探险者在山峰上展示装备，写实质感与自然风光。
-
----
-
 ## 摄影 <a id="photography"></a>
+
+### 夏日沙丘肖像
+
+<img src="https://storage.tiktomato.com/prompts/z-image-turbo/z--161_0.jpg" width="500" />
+
+> 一位丰满的年轻女子站在一张随性的户外快照中央，唤起高质量智能手机相机的原始美感。(random editorial pose)。professional grain 她戴着一顶带有“DANJI”文字的黑色质感帽子，帽子在她的额头和惊人的天然青色眼睛上投下部分阴影。她长长的金红色头发自然地披在肩上，框住一张具有自然皮肤纹理和轻微阳光诱发色素沉着的脸。她穿着无肩带抹胸比基尼上衣，带有绿色和白色波点图案，在她超大胸部的中心打结。她的比基尼下装是纯橙色，侧边系带搭在臀部(super small waist)。她的皮肤呈现深古铜色晒痕，与明显可见的苍白比基尼痕迹形成鲜明对比，这些痕迹在她丰满的上胸和肩膀上略微显露出先前泳装肩带的轮廓。阳光突出了她皮肤的微观地形，强调手臂上的细小毳毛、自然的汗水光泽，并突显她健美腹部的可见腹白线。她的左手腕佩戴着层层叠叠的金属手镯，捕捉着日光。她站在马斯帕洛马斯沙丘中央的沙丘上，该沙丘位于加那利群岛拉斯帕尔马斯省格兰加那利岛南岸。光线直接而未经柔化，创造出强烈的对比和典型休闲度假照片的真实阴影。图像质量保留自然颗粒，避免工作室摄影的人工平滑。Skinny supermodel vibes 皮肤略带微妙油光或来自海水的水滴。sexy random pose, editorial vibes
+
+— 来源 [https://x.com/DanjiTosaka/status/2027109853580419405](https://x.com/DanjiTosaka/status/2027109853580419405)
+
+### 棒冰海滩快照
+
+<img src="https://storage.tiktomato.com/prompts/z-image-turbo/z--162_0.jpg" width="500" />
+
+> 一位丰满的年轻女子站在一张真实户外的快照中央，唤起高质量智能手机相机原始美学。她戴着一顶带有“DANJI”文字的黑色质感帽子，帽子在她的额头投下部分阴影，映衬着她惊人的天然青色眼睛。她长长的金红色头发自然地披在肩上，框住一张具有自然皮肤纹理和轻微阳光诱发色素沉着的脸。她穿着无肩带抹胸比基尼上衣，带有绿色和白色波点图案，在胸部中心打结。她的比基尼下装是纯橙色，侧边系带 resting 在臀部。她的皮肤呈现深古铜色晒痕，与明显苍白的比基尼痕迹形成鲜明对比，这些痕迹可见于她丰满的上胸和肩膀，微微显露出之前泳装肩带的轮廓。阳光突显了她皮肤的微观地形，强调手臂上细小的毳毛、自然的汗水光泽，并突显她结实腹部的腹白线。她的左手腕佩戴分层金属手镯，捕捉日光。她一只手拿着美味湿润的蓝色棒冰。她站在马斯帕洛马斯沙丘中间的沙丘上，该沙丘位于加那利群岛拉斯帕尔马斯省大加那利岛南岸。光线直接而未经柔化，创造出强烈对比和典型的休闲度假照片真实阴影。图像质量保留自然颗粒，避免工作室摄影的人工平滑。超模气质 皮肤略带微妙油光或来自海水的水滴湿润
+
+— 来源 [https://x.com/DanjiTosaka/status/2023029989336301608](https://x.com/DanjiTosaka/status/2023029989336301608)
 
 ### 城市街头纪实
 
@@ -572,6 +216,474 @@
 <img src="https://storage.tiktomato.com/uploads/20260415/zimage_4b977daaead342c4bcd843aa9080eeb4_0.webp" width="500" />
 
 > 时尚室内空间中盆栽植物的精细摄影，建筑线条与自然光影交错。
+
+---
+
+## 信息图 <a id="infographic"></a>
+
+### 等距开发者混沌
+
+<img src="https://storage.tiktomato.com/prompts/z-image-turbo/z--163_0.jpg" width="500" />
+
+> 为我生成一张极具细节和叙事感的【3D 等距微缩模型图 (Isometric Diorama)】。画面展示的核心空间主题是「{这里填入主题}」，整体以一个漂浮在空中的“Story Cube”呈现。视角必须是严格的 45 度等距视角（Isometric View），像 3D 建模软件里的等距预览那样，没有传统透视缩放。将房间或建筑的前墙和/或天花板整齐切开，从外部清晰看到内部结构、家具布置和生活痕迹，就像一个被掀开外壳的微缩模型房间。画面中可以安排一个正在发生的小动作，例如：一只猫蜷缩在沙发上睡觉、电脑屏幕正亮着、炉子里缓缓冒出烟雾等，让空间看起来“正在被使用”。室内设计风格要与「{主题}」高度一致：如果是炼金术士的秘密小店，就要有拥挤的药剂瓶、羊皮纸卷、古书、炼金器具；如果是哥特式吸血鬼的卧室，就有尖拱窗、深色天鹅绒帷幔、烛台和古董家具；如果是废弃太空站指挥舱，就充满老旧的控制台、闪烁的屏幕、悬挂的电缆和漂浮的小工具。内部空间必须采用“有组织的混乱 (Organized Clutter)”美学：高密度、高细节的杂物和个人物品遍布房间各处，让画面在每个角落都有值得细看的小细节。可以加入一个小比例、风格化的人物或 Q 版角色，在房间里做符合主题的日常行为，为画面增加故事感和尺度感。光线采用柔和的体积光 (Volumetric Lighting)：主要光源可以来自一扇窗户、天花板灯、电脑显示器、魔法阵、炉火或霓虹灯，根据「{主题}」自行匹配。光线需要在空气中形成可见的光束和轻微的雾感，让房间看起来温暖、治愈或略带神秘。材质表现要有 3D 渲染的精致感（类似 Blender/Cinema4D/Voxel 风格），强调木材纹理、金属反光、玻璃通透感以及布艺的褶皱与柔软度，让整个等距空间像一件可以被拾起端详的精致微缩模型。画面为横版 16:9，高分辨率，细节丰富。
+
+— 来源 [https://x.com/Ali_TongyiLab/status/1999069317581984186](https://x.com/Ali_TongyiLab/status/1999069317581984186)
+
+### 混乱开发者工作空间
+
+<img src="https://storage.tiktomato.com/prompts/z-image-turbo/z--166_0.jpg" width="500" />
+
+> 为我生成一张极具细节和叙事感的【3D 等距微缩模型图 (Isometric Diorama)】。画面展示的核心空间主题是「chaotic good developer setup」，整体以一个漂浮在空中的“故事方块 (Story Cube)”呈现。视角必须是严格的 45 度等距视角（Isometric View），像 3D 建模软件里的等距预览那样，没有传统透视缩放。将房间或建筑的前墙和/或天花板整齐切开，从外部清晰看到内部结构、家具布置和生活痕迹，就像一个被掀开外壳的微缩模型房间。画面中可以安排一个正在发生的小动作，例如：一只猫蜷缩在沙发上睡觉、电脑屏幕正亮着、炉子里缓缓冒出烟雾等，让空间看起来“正在被使用”。室内设计风格要与「chaotic good developer setup」高度一致：充满老旧的控制台、闪烁的屏幕、悬挂的电缆和漂浮的小工具。内部空间必须采用“有组织的混乱 (Organized Clutter)”美学：高密度、高细节的杂物和个人物品遍布房间各处，让画面在每个角落都有值得细看的小细节。可以加入一个小比例、风格化的人物或 Q 版角色，在房间里做符合主题的日常行为，为画面增加故事感和尺度感。光线采用柔和的体积光 (Volumetric Lighting)：主要光源可以来自一扇窗户、天花板灯、电脑显示器、魔法阵、炉火或霓虹灯，根据「主题」自行匹配。光线需要在空气中形成可见的光束和轻微的雾感，让房间看起来温暖、治愈或略带神秘。材质表现要有 3D 渲染的精致感（类似 Blender/Cinema4D/Voxel 风格），强调木材纹理、金属反光、玻璃通透感以及布艺的褶皱与柔软度，让整个等距空间像一件可以被拾起端详的精致微缩模型。画面为横版 16:9，高分辨率，细节丰富。
+
+— 来源 [https://x.com/Ali_TongyiLab/status/1999069317581984186](https://x.com/Ali_TongyiLab/status/1999069317581984186)
+
+### 健康饮食信息图
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_0ca02add30bf4746ae85f2345fc6b9fa_0.webp" width="500" />
+
+> 一张关于健康饮食的科普信息图，包含营养摄入图表，搭配色彩丰富的水果蔬菜插画，版面简洁易读。
+
+### 气候变化信息图
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_f6f85c8f1d6b4d7ba8aa2f71823ffabf_0.webp" width="500" />
+
+> 关于气候变化的信息图表，包含图表和图标，颜色警示性强，易懂布局
+
+### 科技增长信息图
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_0b985a21810343548697124a1eb43781_0.webp" width="500" />
+
+> 一张科技行业增长信息图：以柱状图和折线图展示2010至2023年全球科技产业发展，配合AI、区块链和云计算图标，蓝绿配色的简洁现代风格。
+
+### 数据统计信息图
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_88d0f949e80941f89e62b3d2ad3a2e95_0.webp" width="500" />
+
+> 一张社交媒体数据信息图：展示2023年各平台使用统计，包含TikTok和Twitter的饼图、用户图标，未来科技感设计。
+
+### 电商市场趋势图
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_22dd55473fa24a63b92a7025e89e514b_0.webp" width="500" />
+
+> 一张电商市场趋势信息图：以上升箭头、销售数据图表和产品图标呈现，极简黑白风格。
+
+### 全球经济信息图
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_3191d7aa8ba1420b9a5e07fdf3e34afb_0.webp" width="500" />
+
+> 一张全球经济指标信息图：以地图、柱状图和货币符号展示GDP与通胀率数据，专业版式布局。
+
+### 在线教育信息图
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_40d9bab4e8df483eb96bdc0129f50400_0.webp" width="500" />
+
+> 一张在线学习统计信息图：展示入学人数图表、书本图标和增长趋势，明亮的教育主题配色。
+
+### 科技趋势信息图
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_00dbf74a0384453fb0b16bf540c7c827_0.webp" width="500" />
+
+> 使用 z-image-turbo 生成信息图：展示人工智能发展趋势，包括图表、图标和数据统计，采用现代蓝白配色，主题为 'AI 未来展望'。
+
+### 健康数据信息图
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_ff1b3ec8674f4b3985b10961bc20358e_0.webp" width="500" />
+
+> 生成信息图：显示健康生活数据图表，包括饮食和运动图标，采用活力色彩，标题 '健康生活指南'，使用 z-image-turbo。
+
+---
+
+## 海报 <a id="poster"></a>
+
+### 古典小说立体模型
+
+<img src="https://storage.tiktomato.com/prompts/z-image-turbo/z--164_0.jpg" width="500" />
+
+> 为影视剧/小说《需要添加的名称》设计一张高品质的3D海报，需先检索影视剧/小说信息和著名片段场景。首先利用知识库检索该影视剧/小说的内容，找出一个最具代表性的名场面或核心地点。在画面中央，将这个场景构建为一个精致的轴侧视角3D微缩模型。风格采用梦工厂动画那种细腻、柔和的渲染风格。你需要还原当时的建筑细节、人物动态以及环境氛围，无论是暴风雨还是宁静的午后，都要自然地融合在模型的光影里。关于背景，不要使用简单的纯白底。请在模型周围营造一种带有淡淡水墨晕染和流动光雾的虚空环境，色调雅致，让画面看起来有呼吸感和纵深感，衬托出中央模型的珍贵。最后是底部的排版，请生成中文文字。居中写上小说名称，字体要有与原著风格匹配的设计感。在书名下方，自动检索并排版一句原著中关于该场景的经典描写或台词，字体使用优雅的衬线体。整体布局要像一个高级的博物馆藏品铭牌那样精致平衡。
+
+— 来源 [https://x.com/Ali_TongyiLab/status/1998608853903036436](https://x.com/Ali_TongyiLab/status/1998608853903036436)
+
+### 环保公益海报
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_3ef5db31e60a485b80984a099dcb5653_0.webp" width="500" />
+
+> 一张富有感召力的环保海报，森林场景中展现濒危动物，醒目标语「拯救地球」，写实风格，柔和光线。
+
+### 摇滚音乐节海报
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_1b27454911d746d38f6ba9b589b58432_0.webp" width="500" />
+
+> 一张为摇滚音乐节设计的缤纷海报，乐队剪影搭配舞台灯光，标注演出日期和场地，充满活力。
+
+### 环保宣传海报
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_c620290c91e14b46b71b1504b16a0b68_0.webp" width="500" />
+
+> 一个环境保护主题的海报，颜色鲜艳，包含地球图像和绿色元素，文字醒目，风格现代化
+
+### 摇滚乐队海报
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_c551ae6930a94b5b9a7502404a08dbd5_0.webp" width="500" />
+
+> 一张摇滚乐队演唱会海报，展现乐队成员与电吉他，粗犷有力的字体排版。
+
+### 科技数码产品海报
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_21318de8c1d1411b8828668e56fd54ee_0.webp" width="500" />
+
+> 一张高分辨率的无线耳机海报，展示未来感设计，搭配霓虹灯光和动感姿态，商业级品质。
+
+### 时尚品牌海报
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_1f077acc97c6447abc8b0bf262256aea_0.webp" width="500" />
+
+> 一张奢侈时尚品牌的商业海报，模特身着华丽礼服行走于都市街头，戏剧性灯光搭配金色点缀，高细节呈现。
+
+### 美妆产品海报
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_22057f235e5d4460bf37384e18e1a466_0.webp" width="500" />
+
+> 一张有机护肤品的鲜艳宣传海报，水润肌肤特写搭配天然植物成分，柔和粉彩色系。
+
+### 旅行社宣传海报
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_b2676b9006ac4a34a0665ba6013613eb_0.webp" width="500" />
+
+> 一张旅行社的推广海报，描绘异域海滩与探险之旅，热带色彩搭配诱人文案，引人入胜。
+
+### 汽车宣传海报
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_d1e6f9bf45c44325a656385b541028f2_0.webp" width="500" />
+
+> 一张动感十足的电动汽车海报，流线型车身行驶在夜间城市街道，霓虹灯倒影映衬，高分辨率。
+
+### 新书发布海报
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_e14960b688154d42b109521703fd008b_0.webp" width="500" />
+
+> 一部科幻小说的发布海报，宇宙元素与神秘人物剪影，粗犷字体搭配星际色彩。
+
+### 餐厅推广海报
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_887205712da246899766aa8d66fef8ef_0.webp" width="500" />
+
+> 一张新开餐厅的诱人宣传海报，精致菜肴冒着热气散发香气，温暖灯光与菜单亮点。
+
+### 活动赞助海报
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_dd0922790c2c4fbc9525f7d3d7111676_0.webp" width="500" />
+
+> 一张音乐节赞助海报，舞台灯光闪烁，人群沸腾，乐队剪影，风格鲜艳动感。
+
+### 饮品品牌海报
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_d984002322ee47b78765d9312d97c975_0.webp" width="500" />
+
+> 一张清爽的新款能量饮料海报，运动员的动态身姿与气泡飞溅效果，醒目品牌标识。
+
+### 电影宣传海报
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_257d408bc35348b0bd0acb9d5b95e000_0.webp" width="500" />
+
+> 一部动作电影的商业海报，英雄在史诗战斗中爆炸与戏剧性姿态，细节精致。
+
+---
+
+## 漫画 <a id="comic"></a>
+
+### 狐狸王座幻想
+
+<img src="https://storage.tiktomato.com/prompts/z-image-turbo/z--165_0.jpg" width="500" />
+
+> 一只戴着小皇冠的狐狸，坐在由秋叶制成的王座上，工作室灯光
+
+— 来源 [https://x.com/GamerHashCom/status/2025593177499902287](https://x.com/GamerHashCom/status/2025593177499902287)
+
+### 超级英雄漫画格
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_29e2164a31b743b3abf2f54c207493d8_0.webp" width="500" />
+
+> 一格充满动感的漫画画面，超级英雄在城市中与反派激战，粗犷线条，动作姿态夸张，带有对白气泡，经典漫威风格。
+
+### 丛林探险漫画条
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_c3382c94669a4522a16cb759f5f9bddd_0.webp" width="500" />
+
+> 一组四格漫画，描绘探险家在丛林中发现宝藏，表情夸张生动，故事趣味十足。
+
+### 超级英雄漫画
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_4b1330ee8c2d451081695710427b37bc_0.webp" width="500" />
+
+> 超级英雄在城市中战斗的漫画场景，动态动作，爆炸效果，色彩对比强烈
+
+### 侦探故事漫画
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_3886580b59f64b729382cfcb05302b0e_0.webp" width="500" />
+
+> 一格悬疑感十足的侦探漫画画面，暗影中的人物与线索，黑色电影风格。
+
+### 漫画少年冒险记
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_a39adc6c71a04713970fca886789156d_0.webp" width="500" />
+
+> 漫画风格的少年英雄探索古代遗迹，神秘宝物与暗藏危机，动态姿势，黑白水墨渲染。
+
+### 赛博朋克都市
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_603827da165a461f97bd09da0fefd961_0.webp" width="500" />
+
+> 黄昏时分喧嚣的赛博朋克都市，全息广告与飞行无人机穿梭其间，科幻漫画风格，霓虹色彩，高能量氛围。
+
+### 漫画侦探推理
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_270ee19dc18b4d3a8cea085d4873ad7d_0.webp" width="500" />
+
+> 漫画风格的侦探在雨夜都市中解谜，暗影与悬念交织，表情刻画细腻，黑色电影影响。
+
+### 漫画超自然激斗
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_fa5963bd4cfb43849ef680f1b2891e27_0.webp" width="500" />
+
+> 漫画中的超自然生物对决场景，幽灵与武者激战，暗色调，高速运动感，线条精致细密。
+
+### 科幻异星邂逅
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_d0315a35c6cf48daafe5154fc86a586a_0.webp" width="500" />
+
+> 人类在飞船中遭遇外星生物，科幻漫画风格，紧张氛围，异形生物设计精细，暗影中的身影。
+
+### 漫画史诗远征
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_60054ce72cb24ff4a3414896f3e103d2_0.webp" width="500" />
+
+> 漫画风格的一行人踏上史诗征途，迎战神话怪兽，冒险精神满溢，分镜式构图。
+
+---
+
+## 头像 <a id="avatar"></a>
+
+### 奇幻女战士头像
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_68ed6e28bb744ae8b68ea46cc065567d_0.webp" width="500" />
+
+> 一位凶悍女战士的高精度数字头像，双眼发光，手持利剑，暗黑奇幻风格，铠甲细节精致入微，高分辨率。
+
+### 赛博朋克外星人头像
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_605322e956784dd39f1cd7ef39cce4cf_0.webp" width="500" />
+
+> 一个未来风格的外星生物头像，拥有多只眼睛和触手，赛博朋克场景，霓虹光效细节，高科技元素。
+
+### 帅气男性头像
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_721a4d745e13469ba925c9dc146d5bef_0.webp" width="500" />
+
+> 一个帅气的年轻男性头像，戴着眼镜，背景是城市夜景，细节丰富，照明柔和
+
+### 幻想精灵头像
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_def40e2271e34342989a8c833e631a2b_0.webp" width="500" />
+
+> 一个奇幻角色头像，精灵耳朵搭配神秘铠甲，面部特征精致入微，魔法背景。
+
+---
+
+## 社交媒体 <a id="social"></a>
+
+### 社交媒体横幅
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_6f54c7c82f2142df94220d2307f446b7_0.webp" width="500" />
+
+> 一张为科技大会设计的活力社交媒体横幅，融合抽象几何图形，蓝绿配色，现代字体，搭配笔记本和网络图标。
+
+### 社区活动社交图
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_84b535a14c3c4e3da41a5f1fdfed1c58_0.webp" width="500" />
+
+> 一张为社区活动设计的社交媒体宣传图，多元化人群互动，传递正能量，配色缤纷且具包容性。
+
+### 朋友聚会社交照
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_ce573cddefc1490cbecc4e1683d16adc_0.webp" width="500" />
+
+> 社交媒体上的朋友聚会照片，背景是咖啡店，大家笑容满面，氛围轻松
+
+### 气候变化社交图
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_fb77ce31d6da4e48bc7557d7ed68f6c7_0.webp" width="500" />
+
+> 一张关于气候变化的社交媒体图片：展现融化的冰山与举牌呼吁的人群，醒目标语「立即行动」，适合 Instagram 发布。
+
+### 环保社交图片
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_84449289275946aebdbe754e00e26585_0.webp" width="500" />
+
+> 一张森林保护主题的社交媒体图片：树木、动物与回收标志，叠加文字「保护我们的地球」，环保配色。
+
+### 健康饮食社交帖
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_da30f2df43294b1597d90c6c48921913_0.webp" width="500" />
+
+> 设计一张健康饮食社交媒体帖子：展示新鲜水果蔬菜与均衡膳食盘，配上健康小贴士文字和分享按钮图标。
+
+### 励志社交图片
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_b9248d7ba690425cbda9a51a089f4f84_0.webp" width="500" />
+
+> 一张励志社交媒体图片：多元化人群达成目标的场景，配上鼓舞人心的名言和健身元素，适合 Twitter 发布。
+
+### 旅行社交帖子
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_b97fb98333aa4d22a9a11916399e23ad_0.webp" width="500" />
+
+> 一张旅行主题社交媒体图片：异域海滩与旅行攻略，叠加世界地图，配文「漫游探险之旅」，适合 Instagram 故事。
+
+### 社交媒体环保海报
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_8e5964706c8540e6ae74e184ccf256bd_0.webp" width="500" />
+
+> 创建社交媒体内容：以绿色主题展示环境保护图，包含树木、动物和口号 '保护地球'，适合微信分享，使用 z-image-turbo。
+
+### 社交媒体时尚分享
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_b99a5fb4f75046d58f85e42c2db84549_0.webp" width="500" />
+
+> 制作社交媒体图片：展示流行时尚搭配、模特和购物图标，添加 '潮流趋势' 文字，优化为微博内容，使用 z-image-turbo。
+
+---
+
+## 视频封面 <a id="thumbnail"></a>
+
+### 游戏缩略图
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_be957669daed4fb393da01e39eda0e8f_0.webp" width="500" />
+
+> 一个动态的游戏缩略图，展示未来主义城市背景下的英雄人物，红色和黑色调，爆炸效果，高清细节，适合 YouTube 视频。
+
+### 科技教程缩略图
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_73d3660112e145cabea47a362e78e960_0.webp" width="500" />
+
+> YouTube 视频缩略图，主题是科技教程，包含设备图标和文字，视觉吸引人
+
+### 游戏视频缩略图
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_175d91d67da54e13975894fdd443fcb3_0.webp" width="500" />
+
+> 设计一张 YouTube 游戏缩略图：玩家正在进行堡垒之夜对战的动态场景，爆炸特效，红色标题「史诗级制胜攻略」，配合行动号召按钮。
+
+### 编程教程缩略图
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_70211a425b114736abce3a15f0374b97_0.webp" width="500" />
+
+> 设计一张 YouTube 教程缩略图：展示笔记本屏幕上的代码片段，一个好奇的卡通形象，配文「快速学会 Python」。
+
+### 音乐榜单缩略图
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_dd0f3eeb27274cbea4df7cec2c05b55b_0.webp" width="500" />
+
+> 设计一张 YouTube 音乐缩略图：流行明星专辑封面搭配霓虹灯光和耳机，发光字体「2023年度十大金曲」。
+
+### 烹饪视频缩略图
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_988d7de343e4412694cd546d3d6be5c3_0.webp" width="500" />
+
+> 设计一张 YouTube 烹饪缩略图：厨师正在制作意面，蒸汽升腾，食材清单旁配文「简单意式食谱」。
+
+### 健身挑战缩略图
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_bc1d83943abe493cad48afa44cab9f99_0.webp" width="500" />
+
+> 设计一张 YouTube 健身缩略图：运动员在训练中挥汗如雨，配有计时器和文字「30天健身挑战」。
+
+### YouTube 游戏缩略图
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_c5c8c5135f6144e8a2f62768f77758ee_0.webp" width="500" />
+
+> 设计 YouTube 缩略图：展示游戏场景如 PUBG 战场，添加爆炸效果和文字 '终极生存指南'，通过 z-image-turbo 生成。
+
+---
+
+## 产品广告 <a id="product"></a>
+
+### 奢华腕表产品图
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_fa03b01bc7b748bcae9e9b46e10962b2_0.webp" width="500" />
+
+> 一个精致的奢侈手表产品渲染，银色表盘，钻石装饰，放在优雅的木质背景上，专业摄影风格，高清细节。
+
+### 高端手机产品照
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_8868a5ed909341c6b5c963a8a7b93122_0.webp" width="500" />
+
+> 一个高端智能手机的产品照，展示细节如摄像头和屏幕，反光效果自然，背景简约
+
+### 奢侈手表展示
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_490a52624b7a4147bb4d41b87f999bb9_0.webp" width="500" />
+
+> 一枚奢华腕表置于木桌上，精密细节与柔和阴影，专业商业产品摄影。
+
+### 环保产品广告
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_570583ffe10d4e2580c437e70fbcb2a5_0.webp" width="500" />
+
+> 一张环保可重复使用水壶的广告海报，清澈水流与绿叶点缀，极简风格搭配醒目文字。
+
+### 智能家居产品广告
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_0eeede99188d45d4be147f5aff7d9657_0.webp" width="500" />
+
+> 智能家居安防摄像头产品广告，展现科技融入现代住宅的场景，写实渲染，传递安全可靠感。
+
+### 健身器材广告
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_86721e596bd4438fa0686584974c4bf8_0.webp" width="500" />
+
+> 高端跑步机商业广告，运动员奔跑中的动感画面，搭配激励文案，高能量色彩与锐利细节。
+
+### 厨房电器广告
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_e40d3ed94337410da44ea461b8e1996b_0.webp" width="500" />
+
+> 一款高端料理机产品广告，新鲜水果被搅打时水花四溅，厨房场景明亮通透。
+
+### 健康保健品广告
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_3cfbe955da424792880f5ce16c4e608c_0.webp" width="500" />
+
+> 天然维生素商业广告，健康活力的人群散发能量光环，宁静自然背景。
+
+### 游戏主机广告
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_6e80d7362ce04c3296e8a7fd29fe2277_0.webp" width="500" />
+
+> 次世代游戏主机产品广告，展现沉浸式游戏画面，鲜艳画面与兴奋的玩家。
+
+### 智能穿戴广告
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_5e7b6d4aada545da9ba6ab2097293715_0.webp" width="500" />
+
+> 智能手表商业广告，跑步者在公园中展示运动追踪功能，数据叠加与现代设计。
+
+### 家居装饰广告
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_3377352a0d2843668872d72bc59e4881_0.webp" width="500" />
+
+> 时尚家居饰品广告，花瓶与靠垫等物品在温馨客厅中陈列，柔和灯光。
+
+### 电子产品套装广告
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_c58d90869c624522b5c4e7e5ea69da7c_0.webp" width="500" />
+
+> 无线耳机与充电器套装产品广告，科技产品艺术化排列，散发高科技光泽。
+
+### 户外装备广告
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_6a1add8860f54cf6b8ddaedae6c2409a_0.webp" width="500" />
+
+> 登山背包广告，探险者在山峰上展示装备，写实质感与自然风光。
 
 ---
 
@@ -824,70 +936,6 @@
 <img src="https://storage.tiktomato.com/uploads/20260415/zimage_4a33ccf0903f4beb9f42f7ace1d3ac64_0.webp" width="500" />
 
 > 奇幻与科幻的跨界融合，精灵持激光武器驰骋于魔法都市，动漫插画风格，元素创意混搭。
-
----
-
-## 漫画 <a id="comic"></a>
-
-### 超级英雄漫画格
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_29e2164a31b743b3abf2f54c207493d8_0.webp" width="500" />
-
-> 一格充满动感的漫画画面，超级英雄在城市中与反派激战，粗犷线条，动作姿态夸张，带有对白气泡，经典漫威风格。
-
-### 丛林探险漫画条
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_c3382c94669a4522a16cb759f5f9bddd_0.webp" width="500" />
-
-> 一组四格漫画，描绘探险家在丛林中发现宝藏，表情夸张生动，故事趣味十足。
-
-### 超级英雄漫画
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_4b1330ee8c2d451081695710427b37bc_0.webp" width="500" />
-
-> 超级英雄在城市中战斗的漫画场景，动态动作，爆炸效果，色彩对比强烈
-
-### 侦探故事漫画
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_3886580b59f64b729382cfcb05302b0e_0.webp" width="500" />
-
-> 一格悬疑感十足的侦探漫画画面，暗影中的人物与线索，黑色电影风格。
-
-### 漫画少年冒险记
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_a39adc6c71a04713970fca886789156d_0.webp" width="500" />
-
-> 漫画风格的少年英雄探索古代遗迹，神秘宝物与暗藏危机，动态姿势，黑白水墨渲染。
-
-### 赛博朋克都市
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_603827da165a461f97bd09da0fefd961_0.webp" width="500" />
-
-> 黄昏时分喧嚣的赛博朋克都市，全息广告与飞行无人机穿梭其间，科幻漫画风格，霓虹色彩，高能量氛围。
-
-### 漫画侦探推理
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_270ee19dc18b4d3a8cea085d4873ad7d_0.webp" width="500" />
-
-> 漫画风格的侦探在雨夜都市中解谜，暗影与悬念交织，表情刻画细腻，黑色电影影响。
-
-### 漫画超自然激斗
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_fa5963bd4cfb43849ef680f1b2891e27_0.webp" width="500" />
-
-> 漫画中的超自然生物对决场景，幽灵与武者激战，暗色调，高速运动感，线条精致细密。
-
-### 科幻异星邂逅
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_d0315a35c6cf48daafe5154fc86a586a_0.webp" width="500" />
-
-> 人类在飞船中遭遇外星生物，科幻漫画风格，紧张氛围，异形生物设计精细，暗影中的身影。
-
-### 漫画史诗远征
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_60054ce72cb24ff4a3414896f3e103d2_0.webp" width="500" />
-
-> 漫画风格的一行人踏上史诗征途，迎战神话怪兽，冒险精神满溢，分镜式构图。
 
 ---
 

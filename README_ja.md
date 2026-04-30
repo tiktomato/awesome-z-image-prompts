@@ -2,7 +2,7 @@
 
 # Z-Image プロンプト集
 
-> 160 件の厳選 Z-Image Turbo プロンプト（プレビュー画像付き）。定期更新。
+> 166 件の厳選 Z-Image Turbo プロンプト（プレビュー画像付き）。定期更新。
 
 [![GitHub Stars](https://img.shields.io/github/stars/tiktomato/awesome-z-image-prompts?style=for-the-badge)](https://github.com/tiktomato/awesome-z-image-prompts)
 
@@ -10,394 +10,38 @@
 
 ## カテゴリ
 
+- [写真](#photography) (31)
+- [インフォグラフィック](#infographic) (11)
+- [ポスター](#poster) (15)
+- [コミック](#comic) (11)
 - [アバター](#avatar) (4)
 - [SNS](#social) (10)
-- [インフォグラフィック](#infographic) (9)
 - [サムネイル](#thumbnail) (8)
-- [ポスター](#poster) (14)
 - [商品広告](#product) (13)
-- [写真](#photography) (29)
 - [フード](#food) (9)
 - [建築](#architecture) (13)
 - [アート](#art) (18)
-- [コミック](#comic) (10)
 - [UI / Web デザイン](#ui) (23)
 
 ---
 
-## アバター <a id="avatar"></a>
-
-### ファンタジー戦士アバター
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_68ed6e28bb744ae8b68ea46cc065567d_0.webp" width="500" />
-
-> 光る瞳を持つ獰猛な女性戦士の精緻なデジタルアバター、剣を構え、ダークファンタジー調、精巧な鎧のディテール、高解像度。
-
-### SF宇宙人アバター
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_605322e956784dd39f1cd7ef39cce4cf_0.webp" width="500" />
-
-> 複数の目と触手を持つ宇宙人の未来的なアバター、サイバーパンクの世界観、ネオンに光るディテール、ハイテク要素。
-
-### イケメン男性アバター
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_721a4d745e13469ba925c9dc146d5bef_0.webp" width="500" />
-
-> 眼鏡をかけたハンサムな若い男性のアバター、背景は都市の夜景、ディテール豊富、柔らかなライティング。
-
-### ファンタジーエルフアバター
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_def40e2271e34342989a8c833e631a2b_0.webp" width="500" />
-
-> エルフの耳と神秘的な鎧を纏ったファンタジーキャラクターのアバター、精緻な顔の造形、魔法の背景。
-
----
-
-## SNS <a id="social"></a>
-
-### SNSバナーデザイン
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_6f54c7c82f2142df94220d2307f446b7_0.webp" width="500" />
-
-> テックカンファレンス向けの鮮やかなSNSバナー、抽象的な幾何学模様、ブルーとグリーンの配色、モダンなフォント、ノートPCとネットワークのアイコン。
-
-### コミュニティSNS投稿
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_84b535a14c3c4e3da41a5f1fdfed1c58_0.webp" width="500" />
-
-> コミュニティイベント向けの魅力的なSNS投稿グラフィック、多様な人々の交流、ポジティブなメッセージ、カラフルでインクルーシブなデザイン。
-
-### 友人の集まりSNS写真
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_ce573cddefc1490cbecc4e1683d16adc_0.webp" width="500" />
-
-> SNS向けの友人の集まり写真、背景はカフェ、みんなの笑顔、リラックスした雰囲気。
-
-### SNS啓発投稿
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_fb77ce31d6da4e48bc7557d7ed68f6c7_0.webp" width="500" />
-
-> z-image-turboでSNS画像を生成：気候変動に関する鮮やかな投稿、溶ける氷山とプラカードを持つ多様な人々、太字フォントで「Act Now」のテキスト、Instagram向け。
-
-### 環境保護SNSグラフィック
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_84449289275946aebdbe754e00e26585_0.webp" width="500" />
-
-> z-image-turboでSNSグラフィック作成：樹木、動物、リサイクルシンボルで森林保全活動を表現、「Save Our Planet」のテキストオーバーレイ、エコフレンドリーなカラー。
-
-### 健康ヒントSNS投稿
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_da30f2df43294b1597d90c6c48921913_0.webp" width="500" />
-
-> z-image-turboでSNS投稿をデザイン：新鮮なフルーツ、野菜、バランスの取れたプレートで健康的な食生活を表現、ヒントテキストとシェアボタンアイコン付き。
-
-### モチベーショナルSNS画像
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_b9248d7ba690425cbda9a51a089f4f84_0.webp" width="500" />
-
-> z-image-turboでSNS画像を生成：目標を達成する多様なグループ、インスピレーショナルな引用、フィットネス要素、Twitter向けのハッシュタグ。
-
-### 旅行SNS投稿
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_b97fb98333aa4d22a9a11916399e23ad_0.webp" width="500" />
-
-> z-image-turboでSNSグラフィック制作：エキゾチックなビーチ、旅行ヒント、世界地図のオーバーレイ、Instagramストーリーズ向け「Wanderlust Adventures」のテキスト。
-
-### SNS環境保護ポスター
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_8e5964706c8540e6ae74e184ccf256bd_0.webp" width="500" />
-
-> SNSコンテンツ作成：グリーンテーマで環境保護の図を表示、樹木、動物、「地球を守ろう」のスローガン含む、SNSシェア向け、z-image-turbo使用。
-
-### SNSファッションシェア
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_b99a5fb4f75046d58f85e42c2db84549_0.webp" width="500" />
-
-> SNS画像制作：流行ファッションコーディネート、モデルとショッピングアイコンを表示、「トレンドファッション」のテキスト追加、SNS向けに最適化、z-image-turbo使用。
-
----
-
-## インフォグラフィック <a id="infographic"></a>
-
-### 健康インフォグラフィック
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_0ca02add30bf4746ae85f2345fc6b9fa_0.webp" width="500" />
-
-> 健康的な食事に関する情報満載のインフォグラフィック、栄養摂取量のチャート、果物と野菜のカラフルなイラスト、読みやすいシンプルなレイアウト。
-
-### 気候変動インフォグラフィック
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_f6f85c8f1d6b4d7ba8aa2f71823ffabf_0.webp" width="500" />
-
-> 気候変動に関するインフォグラフィック、チャートとアイコン含む、警告色の強い配色、わかりやすいレイアウト。
-
-### テック成長インフォグラフィック
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_0b985a21810343548697124a1eb43781_0.webp" width="500" />
-
-> z-image-turboでインフォグラフィック作成：2010年から2023年のグローバルテック産業の成長を棒グラフ、折れ線グラフ、AI・ブロックチェーン・クラウドコンピューティングのアイコンで可視化、ブルーとグリーンのクリーンなモダンスタイル。
-
-### データ統計インフォグラフィック
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_88d0f949e80941f89e62b3d2ad3a2e95_0.webp" width="500" />
-
-> z-image-turboでインフォグラフィック制作：2023年のSNS利用統計を表示、TikTokやTwitterなどのプラットフォーム別円グラフ、ユーザーアイコン、未来的なデザイン。
-
-### マーケットトレンドインフォグラフィック
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_22dd55473fa24a63b92a7025e89e514b_0.webp" width="500" />
-
-> z-image-turboでインフォグラフィック生成：上昇矢印、売上データグラフ、商品アイコンでECマーケットトレンドをチャート化、ミニマリスティックなモノクロスタイル。
-
-### 経済データインフォグラフィック
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_3191d7aa8ba1420b9a5e07fdf3e34afb_0.webp" width="500" />
-
-> z-image-turboでインフォグラフィック制作：GDP、インフレ率などのグローバル経済指標を地図、棒グラフ、通貨シンボルでプロフェッショナルなレイアウトに表現。
-
-### 教育インフォグラフィック
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_40d9bab4e8df483eb96bdc0129f50400_0.webp" width="500" />
-
-> z-image-turboでインフォグラフィック作成：オンライン学習の統計を可視化、入学者数チャート、書籍アイコン、成長トレンド、明るい教育カラー。
-
-### テクノロジートレンドインフォグラフィック
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_00dbf74a0384453fb0b16bf540c7c827_0.webp" width="500" />
-
-> z-image-turboでインフォグラフィック生成：AI発展のトレンドを表示、チャート、アイコン、データ統計を含む、モダンなブルー×ホワイトの配色、テーマは「AI未来展望」。
-
-### 健康データインフォグラフィック
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_ff1b3ec8674f4b3985b10961bc20358e_0.webp" width="500" />
-
-> インフォグラフィック生成：健康生活データのチャートを表示、食事と運動のアイコン含む、活力あるカラー、タイトルは「健康生活ガイド」、z-image-turbo使用。
-
----
-
-## サムネイル <a id="thumbnail"></a>
-
-### ゲームサムネイルアート
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_be957669daed4fb393da01e39eda0e8f_0.webp" width="500" />
-
-> 未来都市を背景にヒーローキャラクターを描いたダイナミックなゲームサムネイル、赤と黒のカラートーン、爆発エフェクト、高精細ディテール、YouTube動画向け。
-
-### テック解説サムネイル
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_73d3660112e145cabea47a362e78e960_0.webp" width="500" />
-
-> YouTube動画サムネイル、テック解説がテーマ、デバイスアイコンとテキスト含む、視覚的に目を引くデザイン。
-
-### YouTubeゲームサムネイル
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_175d91d67da54e13975894fdd443fcb3_0.webp" width="500" />
-
-> z-image-turboでYouTubeサムネイルをデザイン：フォートナイトをプレイするゲーマーのダイナミックなシーン、爆発エフェクト、赤いテキストで「Epic Win Strategies」のタイトル、CTA（行動喚起）ボタン付き。
-
-### チュートリアル動画サムネイル
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_70211a425b114736abce3a15f0374b97_0.webp" width="500" />
-
-> z-image-turboでYouTubeサムネイル制作：ステップバイステップのコーディングチュートリアル、コードスニペットが表示されたノートPC画面、好奇心旺盛なアバター、「Learn Python Fast」のテキスト。
-
-### 音楽レビューサムネイル
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_dd0f3eeb27274cbea4df7cec2c05b55b_0.webp" width="500" />
-
-> z-image-turboでYouTubeサムネイル作成：ネオンライト、ヘッドホンを背景にしたポップスターのアルバムカバー、輝くフォントで「Top 10 Hits 2023」のテキスト。
-
-### 料理動画サムネイル
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_988d7de343e4412694cd546d3d6be5c3_0.webp" width="500" />
-
-> z-image-turboでYouTubeサムネイルをデザイン：パスタを調理するシェフ、湯気のエフェクト、食材リスト、「Easy Italian Recipes」のテキスト。
-
-### フィットネスチャレンジサムネイル
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_bc1d83943abe493cad48afa44cab9f99_0.webp" width="500" />
-
-> z-image-turboでYouTubeサムネイル生成：ワークアウト中のアスリート、汗のエフェクト、タイマー、「30-Day Fitness Challenge」のテキスト。
-
-### YouTubeゲーミングサムネイル
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_c5c8c5135f6144e8a2f62768f77758ee_0.webp" width="500" />
-
-> YouTubeサムネイルデザイン：PUBGの戦場などのゲームシーンを表示、爆発エフェクトと「究極サバイバルガイド」のテキスト追加、z-image-turboで生成。
-
----
-
-## ポスター <a id="poster"></a>
-
-### エコポスターキャンペーン
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_3ef5db31e60a485b80984a099dcb5653_0.webp" width="500" />
-
-> 森林の風景と絶滅危惧種の動物を描いた環境啓発ポスター、太字で「Save the Planet」のメッセージ、リアルなスタイルと柔らかな照明。
-
-### 音楽フェスティバルポスター
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_1b27454911d746d38f6ba9b589b58432_0.webp" width="500" />
-
-> ロック音楽フェスのカラフルなポスター、バンドのシルエット、ステージライト、日時と会場のテキスト、エネルギッシュな雰囲気。
-
-### 環境保護ポスター
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_c620290c91e14b46b71b1504b16a0b68_0.webp" width="500" />
-
-> 環境保護をテーマにしたポスター、鮮やかな色彩、地球のイメージとグリーン要素、目を引くテキスト、モダンなスタイル。
-
-### ロックバンドポスター
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_c551ae6930a94b5b9a7502404a08dbd5_0.webp" width="500" />
-
-> ロックバンドのコンサートポスター、バンドメンバーとエレキギター、力強いタイポグラフィ。
-
-### テックガジェットポスター
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_21318de8c1d1411b8828668e56fd54ee_0.webp" width="500" />
-
-> 最新ワイヤレスイヤホンの高解像度ポスター、ネオンライトとダイナミックなアクションポーズで未来的なデザインを表現、商用利用向けにz-image-turboで生成。
-
-### ファッションブランドポスター
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_1f077acc97c6447abc8b0bf262256aea_0.webp" width="500" />
-
-> ラグジュアリーファッションブランドのコマーシャルポスター、都市を背景にモデルがエレガントなドレスを披露、ドラマチックな照明とゴールドのアクセント、z-image-turboで高精細に。
-
-### ビューティープロダクトポスター
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_22057f235e5d4460bf37384e18e1a466_0.webp" width="500" />
-
-> オーガニックスキンケア製品の鮮やかなポスター、輝く肌と天然成分のクローズアップ、柔らかなパステルカラースキーム、z-image-turbo使用。
-
-### 旅行代理店ポスター
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_b2676b9006ac4a34a0665ba6013613eb_0.webp" width="500" />
-
-> 旅行代理店のプロモーションポスター、エキゾチックなビーチとアドベンチャー、トロピカルカラーと魅力的なテキスト、z-image-turboでエンゲージメント向上。
-
-### オートモーティブポスター
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_d1e6f9bf45c44325a656385b541028f2_0.webp" width="500" />
-
-> 電気自動車のダイナミックなポスター、夜の街でネオンの反射を纏ったスリークな車両、z-image-turboによる高解像度出力。
-
-### 書籍発売ポスター
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_e14960b688154d42b109521703fd008b_0.webp" width="500" />
-
-> 新しいSF小説のポスター、宇宙の要素と謎めいた人物、太字フォントと星間カラー、z-image-turboでレンダリング。
-
-### レストランプロモーションポスター
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_887205712da246899766aa8d66fef8ef_0.webp" width="500" />
-
-> 新レストランの食欲をそそるポスター、湯気とアロマを漂わせるグルメ料理、温かみのある照明とメニューのハイライト、z-image-turbo使用。
-
-### イベントスポンサーポスター
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_dd0922790c2c4fbc9525f7d3d7111676_0.webp" width="500" />
-
-> 音楽フェスティバルスポンサーシップのポスター、ステージライト、観客のエネルギーとバンドのシルエット、鮮やかでダイナミックなスタイル、z-image-turbo使用。
-
-### ドリンクブランドポスター
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_d984002322ee47b78765d9312d97c975_0.webp" width="500" />
-
-> 新エナジードリンクのさわやかなポスター、躍動するアスリートと炭酸エフェクト、力強いブランディング、z-image-turboで生成。
-
-### 映画プロモーションポスター
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_257d408bc35348b0bd0acb9d5b95e000_0.webp" width="500" />
-
-> アクション映画のコマーシャルポスター、爆発とドラマチックなポーズで壮大なバトルを繰り広げるヒーロー、z-image-turboによる精緻なレンダリング。
-
----
-
-## 商品広告 <a id="product"></a>
-
-### 高級腕時計プロダクト
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_fa03b01bc7b748bcae9e9b46e10962b2_0.webp" width="500" />
-
-> 精緻な高級腕時計のプロダクトレンダリング、シルバーの文字盤、ダイヤモンド装飾、エレガントな木目の背景、プロフェッショナルなフォトスタイル、高精細ディテール。
-
-### 高級スマートフォン製品写真
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_8868a5ed909341c6b5c963a8a7b93122_0.webp" width="500" />
-
-> 高級スマートフォンのプロダクトフォト、カメラやスクリーンなどのディテール表現、自然な反射効果、シンプルな背景。
-
-### 高級腕時計ディスプレイ
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_490a52624b7a4147bb4d41b87f999bb9_0.webp" width="500" />
-
-> 木製テーブルに置かれた高級腕時計、精巧なディテールと柔らかな影、プロフェッショナルなプロダクトショット。
-
-### エコプロダクト広告
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_570583ffe10d4e2580c437e70fbcb2a5_0.webp" width="500" />
-
-> エコフレンドリーなリユーザブルウォーターボトルの広告ポスター、透き通る水とグリーンリーフ、ミニマリストスタイルと太字テキスト、z-image-turboに最適化。
-
-### スマートホームデバイス広告
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_0eeede99188d45d4be147f5aff7d9657_0.webp" width="500" />
-
-> スマートホーム防犯カメラのプロダクト広告、テクノロジーが統合されたモダンハウス、リアルなレンダリングと安心感のある雰囲気、z-image-turboで作成。
-
-### フィットネス機器広告
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_86721e596bd4438fa0686584974c4bf8_0.webp" width="500" />
-
-> ハイエンドトレッドミルのコマーシャル広告、アクション中のアスリートとモチベーショナルクォート、ハイエナジーカラーとシャープなディテール、z-image-turbo使用。
-
-### キッチン家電広告
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_e40d3ed94337410da44ea461b8e1996b_0.webp" width="500" />
-
-> 最新型ブレンダーのプロダクト広告、新鮮なフルーツがスプラッシュとともにブレンドされるシーン、明るいキッチンセッティング、z-image-turbo使用。
-
-### ウェルネスサプリメント広告
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_3cfbe955da424792880f5ce16c4e608c_0.webp" width="500" />
-
-> 天然ビタミンのコマーシャル広告、エネルギーオーラに包まれた健康的な人々、穏やかな自然の背景、z-image-turbo使用。
-
-### ゲーム機広告
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_6e80d7362ce04c3296e8a7fd29fe2277_0.webp" width="500" />
-
-> 次世代ゲーム機のプロダクト広告、没入感のあるゲームプレイシーンと鮮やかなグラフィックス、興奮するゲーマーたち、z-image-turbo使用。
-
-### ウェアラブルテック広告
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_5e7b6d4aada545da9ba6ab2097293715_0.webp" width="500" />
-
-> スマートウォッチのコマーシャル広告、公園でランニング中のフィットネストラッキング表示、データオーバーレイとモダンデザイン、z-image-turbo使用。
-
-### ホームデコア製品広告
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_3377352a0d2843668872d72bc59e4881_0.webp" width="500" />
-
-> 花瓶やクッションなどスタイリッシュなホームデコアアイテムの広告、居心地の良いリビングルームセッティングと柔らかな照明、z-image-turbo使用。
-
-### エレクトロニクスバンドル広告
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_c58d90869c624522b5c4e7e5ea69da7c_0.webp" width="500" />
-
-> ワイヤレスヘッドホンと充電器のバンドルプロダクト広告、アーティスティックに配置されたテックガジェットとハイテクな輝き、z-image-turbo使用。
-
-### アウトドアギア広告
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_6a1add8860f54cf6b8ddaedae6c2409a_0.webp" width="500" />
-
-> ハイキングバックパックの広告、山でギアにフォーカスした冒険者、リアルなテクスチャーと自然の風景、z-image-turbo使用。
-
----
-
 ## 写真 <a id="photography"></a>
+
+### サマー デューン ポートレート
+
+<img src="https://storage.tiktomato.com/prompts/z-image-turbo/z--161_0.jpg" width="500" />
+
+> 砂丘に立つ巨乳の若い女性が、高品質なスマートフォンカメラの生々しい美学を思わせる率直な屋外スナップショットに中央に立っている。(random editorial pose). professional grain 彼女は額と見事な自然なシアンの瞳に部分的な影を落とす「DANJI」というテキストの入ったテクスチャードの黒い帽子をかぶっている。長いブロンドレッドの髪が肩の上に自然に流れ、自然な皮膚テクスチャと淡い日焼けによる色素沈着が特徴的な顔を縁取っている。彼女は巨大な胸の中央で結ばれた緑と白のポルカドット柄のストラップレス・バンデアウ・ビキニトップを着用している。ビキニボトムは無地のオレンジ色で、サイドタイがヒップに掛かっている(super small waist)。彼女の肌は深いブロンズの日焼けをしており、大きな上胸と肩に明確な淡いタンラインが鮮明に現れ、以前の水着ストラップの輪郭をわずかに露わにしている。日光が肌の微細な地形を強調し、腕の細かい産毛と自然な汗の光沢を際立たせ、visible linea albaのある引き締まった腹筋を称賛している。左の手首には日光を反射するレイヤードメタリックブレスレットが付いている。彼女はグランカナリア島南岸のマスパロマス砂丘、ラス・パルマス県、カナリア諸島の真ん中の砂丘に立っている。照明は直接的で柔らかさのないもので、カジュアルなバカンス写真に典型的な強いコントラストと本物の影を生み出している。画像は自然な粒状性を保ち、スタジオ撮影の人工的な滑らかさを避けている。Skinny supermodel vibes 肌は海水のしずくでわずかにオイルや濡れたような質感。sexy random pose, editorial vibes
+
+— via [https://x.com/DanjiTosaka/status/2027109853580419405](https://x.com/DanjiTosaka/status/2027109853580419405)
+
+### ポプシクルビーチのスナップ写真
+
+<img src="https://storage.tiktomato.com/prompts/z-image-turbo/z--162_0.jpg" width="500" />
+
+> 中央に立つバストの大きい若い女性が、高品質なスマートフォンカメラの生々しい审美を思わせる率直な屋外スナップ写真。彼女は額に部分的な影を落とすテクスチャードな黒い帽子に「DANJI」テキストが入っており、驚くほど自然なシアンの瞳をしている。長いブロンドレッドの髪が肩に自然に流れ、自然な肌の質感と日焼けによる薄い色素沈着のある顔をフレームしている。彼女は胸の中央で結ばれた緑と白のポルカドット柄のストラップレス・バンデアウ・ビキニトップを着用。ビキニボトムは無地のオレンジで、サイドタイがヒップに掛かっている。肌は深いブロンズタンで、豊かな胸の上部と肩に明確な淡いタンラインが鮮明に現れ、以前の水着ストラップの輪郭をわずかに露わにしている。日光が肌の微細な地形を強調し、腕の細かい産毛と自然な汗の光沢を際立たせ、visible linea albaのある引き締まった腹筋を美しく見せている。左の手首には層になったメタリックブレスレットが daylight を反射。片手には美味しそうな濡れた青いポプシクルを持っている。彼女はグラン・カナリア島南岸のマスパロマス砂丘（ラス・パルマス県、カナリア諸島）の中央の砂丘に立っている。照明は直接的で柔らかさのないもので、強いコントラストとカジュアルなバカンス写真特有の本物の影を生み出している。画像は自然なグレインを保ち、スタジオ撮影の人工的な滑らかさを避けている。Supermodel vibes 肌は海水の滴でわずかにオイルやウェットになっている
+
+— via [https://x.com/DanjiTosaka/status/2023029989336301608](https://x.com/DanjiTosaka/status/2023029989336301608)
 
 ### 都市ストリートフォト
 
@@ -572,6 +216,474 @@
 <img src="https://storage.tiktomato.com/uploads/20260415/zimage_4b977daaead342c4bcd843aa9080eeb4_0.webp" width="500" />
 
 > スタイリッシュなインテリアに配置された鉢植えの精緻な写真、建築的なラインと自然な影、z-image-turbo生成。
+
+---
+
+## インフォグラフィック <a id="infographic"></a>
+
+### アイソメトリック デベロッパー カオス
+
+<img src="https://storage.tiktomato.com/prompts/z-image-turbo/z--163_0.jpg" width="500" />
+
+> 極めて詳細で物語性のある【3D 等距微縮模型図 (Isometric Diorama)】を生成してください。画面の中心となる空間テーマは「{ここにテーマを入力}」で、全体を空中に浮かぶ“Story Cube”として表現。視点は厳密な45度等距視点（Isometric View）で、3Dモデリングソフトウェアの等距プレビューのように伝統的なパース縮尺は使用しない。部屋や建物の前壁と／または天井をきれいに切り取った状態で、外部から内部構造、家具配置、生活の痕跡が明確に見えるようにする。まるで外殻をめくった微縮模型部屋のよう。画面内には小さな動作を配置：猫がソファで丸まって寝ている、PC画面が点灯している、ストーブから煙がゆっくり上がっているなど、空間が“現在使用中”であることを感じさせる。室内デザインは「{テーマ}」と完全に一致させる：錬金術師の秘密の店なら混雑した薬瓶、羊皮紙巻物、古書、錬金器具を、ゴシック吸血鬼の寝室なら尖頭アーチ窓、濃色ベルベットのドレープ、燭台、アンティーク家具を、廃棄宇宙ステーションの指揮舱なら老朽化したコントロールパネル、点滅する画面、垂れ下がったケーブル、浮遊する小道具を配置。内部空間は“有组织的混乱 (Organized Clutter)”の美学を採用：高密度で高詳細な雑貨と私物が部屋中に散らばり、隅々まで見るべき小さなディテールが満載。小さなスケールでスタイライズされた人物またはQ版キャラを1体配置し、テーマに合った日常行動を取らせることで物語性とスケール感を追加。光線は柔らかい体积光 (Volumetric Lighting) を使用：主な光源は窓、天井灯、PCモニター、魔法陣、炉火、ネオンなどテーマに合わせて選択。光は空気中に可視の光束と軽い霧感を生み、部屋を温かく、癒し系、またはわずかに神秘的に見せる。材質表現は3Dレンダリングの精巧さ（Blender/Cinema4D/Voxel風）を重視し、木の木目、金属の反射、ガラスの透明感、布の皺と柔らかさを強調し、全体の等距空間が手に取って眺められる精緻な微縮模型のようにする。横型16:9、高解像度、豊富なディテール。
+
+— via [https://x.com/Ali_TongyiLab/status/1999069317581984186](https://x.com/Ali_TongyiLab/status/1999069317581984186)
+
+### 混沌的開發者工作空間
+
+<img src="https://storage.tiktomato.com/prompts/z-image-turbo/z--166_0.jpg" width="500" />
+
+> 為我生成一張極具細節和敘事感的【3D 等距微縮模型圖 (Isometric Diorama)】。畫面展示的核心空間主題是「chaotic good developer setup」，整體以一個漂浮在空中的“Story Cube”呈現。視角必須是嚴格的 45 度等距視角（Isometric View），像 3D 建模軟體裡的等距預覽那樣，沒有傳統透視縮放。將房間或建築的前牆和/或天花板整齊切開，從外部清晰看到內部結構、傢俱布置和生活痕跡，就像一個被掀開外殼的微縮模型房間。畫面中可以安排一個正在發生的小動作，例如：一隻貓蜷縮在沙發上睡覺、電腦螢幕正亮著、爐子裡緩緩冒出煙霧等，讓空間看起來「正在被使用」。室內設計風格要與「chaotic good developer setup」高度一致：充滿老舊的控制台、閃爍的螢幕、懸掛的電纜和漂浮的小工具。內部空間必須採用「有組織的混亂 (Organized Clutter)」美學：高密度、高細節的雜物和個人物品遍布房間各處，讓畫面在每個角落都有值得細看的小細節。可以加入一個小比例、風格化的人物或 Q 版角色，在房間裡做符合主題的日常行為，為畫面增加故事感和尺度感。光線採用柔和的體積光 (Volumetric Lighting)：主要光源可以來自一扇窗戶、天花板燈、電腦顯示器、魔法陣、爐火或霓虹燈，根據「主題」自行匹配。光線需要在空氣中形成可見的光束和輕微的霧感，讓房間看起來溫暖、治癒或略帶神秘。材質表現要有 3D 渲染的精緻感（類似 Blender/Cinema4D/Voxel 風格），強調木材紋理、金屬反光、玻璃通透感以及布藝的褶皺與柔軟度，讓整個等距空間像一件可以被拾起端詳的精緻微縮模型。畫面為橫版 16:9，高解析度，細節豐富。
+
+— via [https://x.com/Ali_TongyiLab/status/1999069317581984186](https://x.com/Ali_TongyiLab/status/1999069317581984186)
+
+### 健康インフォグラフィック
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_0ca02add30bf4746ae85f2345fc6b9fa_0.webp" width="500" />
+
+> 健康的な食事に関する情報満載のインフォグラフィック、栄養摂取量のチャート、果物と野菜のカラフルなイラスト、読みやすいシンプルなレイアウト。
+
+### 気候変動インフォグラフィック
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_f6f85c8f1d6b4d7ba8aa2f71823ffabf_0.webp" width="500" />
+
+> 気候変動に関するインフォグラフィック、チャートとアイコン含む、警告色の強い配色、わかりやすいレイアウト。
+
+### テック成長インフォグラフィック
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_0b985a21810343548697124a1eb43781_0.webp" width="500" />
+
+> z-image-turboでインフォグラフィック作成：2010年から2023年のグローバルテック産業の成長を棒グラフ、折れ線グラフ、AI・ブロックチェーン・クラウドコンピューティングのアイコンで可視化、ブルーとグリーンのクリーンなモダンスタイル。
+
+### データ統計インフォグラフィック
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_88d0f949e80941f89e62b3d2ad3a2e95_0.webp" width="500" />
+
+> z-image-turboでインフォグラフィック制作：2023年のSNS利用統計を表示、TikTokやTwitterなどのプラットフォーム別円グラフ、ユーザーアイコン、未来的なデザイン。
+
+### マーケットトレンドインフォグラフィック
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_22dd55473fa24a63b92a7025e89e514b_0.webp" width="500" />
+
+> z-image-turboでインフォグラフィック生成：上昇矢印、売上データグラフ、商品アイコンでECマーケットトレンドをチャート化、ミニマリスティックなモノクロスタイル。
+
+### 経済データインフォグラフィック
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_3191d7aa8ba1420b9a5e07fdf3e34afb_0.webp" width="500" />
+
+> z-image-turboでインフォグラフィック制作：GDP、インフレ率などのグローバル経済指標を地図、棒グラフ、通貨シンボルでプロフェッショナルなレイアウトに表現。
+
+### 教育インフォグラフィック
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_40d9bab4e8df483eb96bdc0129f50400_0.webp" width="500" />
+
+> z-image-turboでインフォグラフィック作成：オンライン学習の統計を可視化、入学者数チャート、書籍アイコン、成長トレンド、明るい教育カラー。
+
+### テクノロジートレンドインフォグラフィック
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_00dbf74a0384453fb0b16bf540c7c827_0.webp" width="500" />
+
+> z-image-turboでインフォグラフィック生成：AI発展のトレンドを表示、チャート、アイコン、データ統計を含む、モダンなブルー×ホワイトの配色、テーマは「AI未来展望」。
+
+### 健康データインフォグラフィック
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_ff1b3ec8674f4b3985b10961bc20358e_0.webp" width="500" />
+
+> インフォグラフィック生成：健康生活データのチャートを表示、食事と運動のアイコン含む、活力あるカラー、タイトルは「健康生活ガイド」、z-image-turbo使用。
+
+---
+
+## ポスター <a id="poster"></a>
+
+### 古典小説ジオラマ
+
+<img src="https://storage.tiktomato.com/prompts/z-image-turbo/z--164_0.jpg" width="500" />
+
+> 影视剧/小说《需要添加的名称》向けの高品質3Dポスターをデザインしてください。まず、影视剧/小说の情報を検索し、有名なシーンや核心的な場面を特定します。画面中央にその代表的なシーンを軸側視点の精巧な3Dミニチュアモデルとして構築します。スタイルはドリームワークスアニメーションのような繊細で柔らかなレンダリングを採用してください。当時の建築細部、人物の動き、環境の雰囲気を忠実に再現し、嵐であれ穏やかな午後であれ、自然にモデルの光影に溶け込ませます。背景は単純な白ではなく、モデル周囲に淡い水墨の滲みと流動する光の霧が漂う虚空環境を演出してください。色調は上品で、呼吸感と奥行きがあり、中央のモデルを貴重に引き立てるものにします。最後に下部のレイアウトは中文テキストで、高級博物館の収蔵品プレートのように洗練されたバランスで配置します。中央に小说名称を原著の雰囲気に合ったデザイン性の高いフォントで記し、その下に自動検索した該当シーンの原著からの经典描写または台詞を優雅なセリフ体で配置してください。
+
+— via [https://x.com/Ali_TongyiLab/status/1998608853903036436](https://x.com/Ali_TongyiLab/status/1998608853903036436)
+
+### エコポスターキャンペーン
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_3ef5db31e60a485b80984a099dcb5653_0.webp" width="500" />
+
+> 森林の風景と絶滅危惧種の動物を描いた環境啓発ポスター、太字で「Save the Planet」のメッセージ、リアルなスタイルと柔らかな照明。
+
+### 音楽フェスティバルポスター
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_1b27454911d746d38f6ba9b589b58432_0.webp" width="500" />
+
+> ロック音楽フェスのカラフルなポスター、バンドのシルエット、ステージライト、日時と会場のテキスト、エネルギッシュな雰囲気。
+
+### 環境保護ポスター
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_c620290c91e14b46b71b1504b16a0b68_0.webp" width="500" />
+
+> 環境保護をテーマにしたポスター、鮮やかな色彩、地球のイメージとグリーン要素、目を引くテキスト、モダンなスタイル。
+
+### ロックバンドポスター
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_c551ae6930a94b5b9a7502404a08dbd5_0.webp" width="500" />
+
+> ロックバンドのコンサートポスター、バンドメンバーとエレキギター、力強いタイポグラフィ。
+
+### テックガジェットポスター
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_21318de8c1d1411b8828668e56fd54ee_0.webp" width="500" />
+
+> 最新ワイヤレスイヤホンの高解像度ポスター、ネオンライトとダイナミックなアクションポーズで未来的なデザインを表現、商用利用向けにz-image-turboで生成。
+
+### ファッションブランドポスター
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_1f077acc97c6447abc8b0bf262256aea_0.webp" width="500" />
+
+> ラグジュアリーファッションブランドのコマーシャルポスター、都市を背景にモデルがエレガントなドレスを披露、ドラマチックな照明とゴールドのアクセント、z-image-turboで高精細に。
+
+### ビューティープロダクトポスター
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_22057f235e5d4460bf37384e18e1a466_0.webp" width="500" />
+
+> オーガニックスキンケア製品の鮮やかなポスター、輝く肌と天然成分のクローズアップ、柔らかなパステルカラースキーム、z-image-turbo使用。
+
+### 旅行代理店ポスター
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_b2676b9006ac4a34a0665ba6013613eb_0.webp" width="500" />
+
+> 旅行代理店のプロモーションポスター、エキゾチックなビーチとアドベンチャー、トロピカルカラーと魅力的なテキスト、z-image-turboでエンゲージメント向上。
+
+### オートモーティブポスター
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_d1e6f9bf45c44325a656385b541028f2_0.webp" width="500" />
+
+> 電気自動車のダイナミックなポスター、夜の街でネオンの反射を纏ったスリークな車両、z-image-turboによる高解像度出力。
+
+### 書籍発売ポスター
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_e14960b688154d42b109521703fd008b_0.webp" width="500" />
+
+> 新しいSF小説のポスター、宇宙の要素と謎めいた人物、太字フォントと星間カラー、z-image-turboでレンダリング。
+
+### レストランプロモーションポスター
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_887205712da246899766aa8d66fef8ef_0.webp" width="500" />
+
+> 新レストランの食欲をそそるポスター、湯気とアロマを漂わせるグルメ料理、温かみのある照明とメニューのハイライト、z-image-turbo使用。
+
+### イベントスポンサーポスター
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_dd0922790c2c4fbc9525f7d3d7111676_0.webp" width="500" />
+
+> 音楽フェスティバルスポンサーシップのポスター、ステージライト、観客のエネルギーとバンドのシルエット、鮮やかでダイナミックなスタイル、z-image-turbo使用。
+
+### ドリンクブランドポスター
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_d984002322ee47b78765d9312d97c975_0.webp" width="500" />
+
+> 新エナジードリンクのさわやかなポスター、躍動するアスリートと炭酸エフェクト、力強いブランディング、z-image-turboで生成。
+
+### 映画プロモーションポスター
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_257d408bc35348b0bd0acb9d5b95e000_0.webp" width="500" />
+
+> アクション映画のコマーシャルポスター、爆発とドラマチックなポーズで壮大なバトルを繰り広げるヒーロー、z-image-turboによる精緻なレンダリング。
+
+---
+
+## コミック <a id="comic"></a>
+
+### キツネの玉座ファンタジー
+
+<img src="https://storage.tiktomato.com/prompts/z-image-turbo/z--165_0.jpg" width="500" />
+
+> 秋の葉でできた玉座に座る小さな王冠をかぶったキツネ、スタジオ照明
+
+— via [https://x.com/GamerHashCom/status/2025593177499902287](https://x.com/GamerHashCom/status/2025593177499902287)
+
+### スーパーヒーローコミック
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_29e2164a31b743b3abf2f54c207493d8_0.webp" width="500" />
+
+> 都市景観の中でヴィランと戦うスーパーヒーローのダイナミックなコミックパネル、力強い線画、アクションポーズ、吹き出し、クラシックなマーベルスタイル。
+
+### 冒険コミックストリップ
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_c3382c94669a4522a16cb759f5f9bddd_0.webp" width="500" />
+
+> ジャングルの探検家を描いた4コマ漫画、宝物との遭遇、大袈裟な表情、楽しいストーリー展開。
+
+### スーパーヒーロー漫画
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_4b1330ee8c2d451081695710427b37bc_0.webp" width="500" />
+
+> 都市で戦うスーパーヒーローの漫画シーン、ダイナミックなアクション、爆発エフェクト、強いカラーコントラスト。
+
+### 探偵物語コミック
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_3886580b59f64b729382cfcb05302b0e_0.webp" width="500" />
+
+> サスペンスフルなシーンの探偵物語コミックパネル、影のある人物と手がかり、フィルム・ノワールスタイル。
+
+### 漫画ヒーローアドベンチャー
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_a39adc6c71a04713970fca886789156d_0.webp" width="500" />
+
+> 漫画スタイルの冒険に出る若いヒーロー、古代遺跡の探索、謎のアーティファクトと隠された危険、ダイナミックなポーズ、モノクロの陰影表現。
+
+### SFサイバーパンクシティ
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_603827da165a461f97bd09da0fefd961_0.webp" width="500" />
+
+> 黄昏時の賑やかなサイバーパンクシティ、ホログラフィック広告と飛行ドローン、SFマンガイラスト、ネオンカラー、ハイエナジーな雰囲気。
+
+### 漫画探偵ストーリー
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_270ee19dc18b4d3a8cea085d4873ad7d_0.webp" width="500" />
+
+> 雨の街で謎を解く漫画スタイルの探偵、影とサスペンス、精緻な表情描写、フィルム・ノワールの影響。
+
+### 漫画超常バトル
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_fa5963bd4cfb43849ef680f1b2891e27_0.webp" width="500" />
+
+> 漫画の超常バトルシーン、幽霊と戦士、ダークトーン、高速のモーション、精巧な線画。
+
+### SFエイリアン遭遇
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_d0315a35c6cf48daafe5154fc86a586a_0.webp" width="500" />
+
+> 宇宙船上でエイリアンと遭遇する人類、SFマンガスタイル、緊張感のある雰囲気、精緻なクリーチャーデザイン、影のある人物。
+
+### 漫画エピッククエスト
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_60054ce72cb24ff4a3414896f3e103d2_0.webp" width="500" />
+
+> 漫画スタイルの壮大な冒険の旅に出る一行、神話上の獣との対峙、冒険心溢れる、パネル風のコンポジション。
+
+---
+
+## アバター <a id="avatar"></a>
+
+### ファンタジー戦士アバター
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_68ed6e28bb744ae8b68ea46cc065567d_0.webp" width="500" />
+
+> 光る瞳を持つ獰猛な女性戦士の精緻なデジタルアバター、剣を構え、ダークファンタジー調、精巧な鎧のディテール、高解像度。
+
+### SF宇宙人アバター
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_605322e956784dd39f1cd7ef39cce4cf_0.webp" width="500" />
+
+> 複数の目と触手を持つ宇宙人の未来的なアバター、サイバーパンクの世界観、ネオンに光るディテール、ハイテク要素。
+
+### イケメン男性アバター
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_721a4d745e13469ba925c9dc146d5bef_0.webp" width="500" />
+
+> 眼鏡をかけたハンサムな若い男性のアバター、背景は都市の夜景、ディテール豊富、柔らかなライティング。
+
+### ファンタジーエルフアバター
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_def40e2271e34342989a8c833e631a2b_0.webp" width="500" />
+
+> エルフの耳と神秘的な鎧を纏ったファンタジーキャラクターのアバター、精緻な顔の造形、魔法の背景。
+
+---
+
+## SNS <a id="social"></a>
+
+### SNSバナーデザイン
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_6f54c7c82f2142df94220d2307f446b7_0.webp" width="500" />
+
+> テックカンファレンス向けの鮮やかなSNSバナー、抽象的な幾何学模様、ブルーとグリーンの配色、モダンなフォント、ノートPCとネットワークのアイコン。
+
+### コミュニティSNS投稿
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_84b535a14c3c4e3da41a5f1fdfed1c58_0.webp" width="500" />
+
+> コミュニティイベント向けの魅力的なSNS投稿グラフィック、多様な人々の交流、ポジティブなメッセージ、カラフルでインクルーシブなデザイン。
+
+### 友人の集まりSNS写真
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_ce573cddefc1490cbecc4e1683d16adc_0.webp" width="500" />
+
+> SNS向けの友人の集まり写真、背景はカフェ、みんなの笑顔、リラックスした雰囲気。
+
+### SNS啓発投稿
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_fb77ce31d6da4e48bc7557d7ed68f6c7_0.webp" width="500" />
+
+> z-image-turboでSNS画像を生成：気候変動に関する鮮やかな投稿、溶ける氷山とプラカードを持つ多様な人々、太字フォントで「Act Now」のテキスト、Instagram向け。
+
+### 環境保護SNSグラフィック
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_84449289275946aebdbe754e00e26585_0.webp" width="500" />
+
+> z-image-turboでSNSグラフィック作成：樹木、動物、リサイクルシンボルで森林保全活動を表現、「Save Our Planet」のテキストオーバーレイ、エコフレンドリーなカラー。
+
+### 健康ヒントSNS投稿
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_da30f2df43294b1597d90c6c48921913_0.webp" width="500" />
+
+> z-image-turboでSNS投稿をデザイン：新鮮なフルーツ、野菜、バランスの取れたプレートで健康的な食生活を表現、ヒントテキストとシェアボタンアイコン付き。
+
+### モチベーショナルSNS画像
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_b9248d7ba690425cbda9a51a089f4f84_0.webp" width="500" />
+
+> z-image-turboでSNS画像を生成：目標を達成する多様なグループ、インスピレーショナルな引用、フィットネス要素、Twitter向けのハッシュタグ。
+
+### 旅行SNS投稿
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_b97fb98333aa4d22a9a11916399e23ad_0.webp" width="500" />
+
+> z-image-turboでSNSグラフィック制作：エキゾチックなビーチ、旅行ヒント、世界地図のオーバーレイ、Instagramストーリーズ向け「Wanderlust Adventures」のテキスト。
+
+### SNS環境保護ポスター
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_8e5964706c8540e6ae74e184ccf256bd_0.webp" width="500" />
+
+> SNSコンテンツ作成：グリーンテーマで環境保護の図を表示、樹木、動物、「地球を守ろう」のスローガン含む、SNSシェア向け、z-image-turbo使用。
+
+### SNSファッションシェア
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_b99a5fb4f75046d58f85e42c2db84549_0.webp" width="500" />
+
+> SNS画像制作：流行ファッションコーディネート、モデルとショッピングアイコンを表示、「トレンドファッション」のテキスト追加、SNS向けに最適化、z-image-turbo使用。
+
+---
+
+## サムネイル <a id="thumbnail"></a>
+
+### ゲームサムネイルアート
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_be957669daed4fb393da01e39eda0e8f_0.webp" width="500" />
+
+> 未来都市を背景にヒーローキャラクターを描いたダイナミックなゲームサムネイル、赤と黒のカラートーン、爆発エフェクト、高精細ディテール、YouTube動画向け。
+
+### テック解説サムネイル
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_73d3660112e145cabea47a362e78e960_0.webp" width="500" />
+
+> YouTube動画サムネイル、テック解説がテーマ、デバイスアイコンとテキスト含む、視覚的に目を引くデザイン。
+
+### YouTubeゲームサムネイル
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_175d91d67da54e13975894fdd443fcb3_0.webp" width="500" />
+
+> z-image-turboでYouTubeサムネイルをデザイン：フォートナイトをプレイするゲーマーのダイナミックなシーン、爆発エフェクト、赤いテキストで「Epic Win Strategies」のタイトル、CTA（行動喚起）ボタン付き。
+
+### チュートリアル動画サムネイル
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_70211a425b114736abce3a15f0374b97_0.webp" width="500" />
+
+> z-image-turboでYouTubeサムネイル制作：ステップバイステップのコーディングチュートリアル、コードスニペットが表示されたノートPC画面、好奇心旺盛なアバター、「Learn Python Fast」のテキスト。
+
+### 音楽レビューサムネイル
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_dd0f3eeb27274cbea4df7cec2c05b55b_0.webp" width="500" />
+
+> z-image-turboでYouTubeサムネイル作成：ネオンライト、ヘッドホンを背景にしたポップスターのアルバムカバー、輝くフォントで「Top 10 Hits 2023」のテキスト。
+
+### 料理動画サムネイル
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_988d7de343e4412694cd546d3d6be5c3_0.webp" width="500" />
+
+> z-image-turboでYouTubeサムネイルをデザイン：パスタを調理するシェフ、湯気のエフェクト、食材リスト、「Easy Italian Recipes」のテキスト。
+
+### フィットネスチャレンジサムネイル
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_bc1d83943abe493cad48afa44cab9f99_0.webp" width="500" />
+
+> z-image-turboでYouTubeサムネイル生成：ワークアウト中のアスリート、汗のエフェクト、タイマー、「30-Day Fitness Challenge」のテキスト。
+
+### YouTubeゲーミングサムネイル
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_c5c8c5135f6144e8a2f62768f77758ee_0.webp" width="500" />
+
+> YouTubeサムネイルデザイン：PUBGの戦場などのゲームシーンを表示、爆発エフェクトと「究極サバイバルガイド」のテキスト追加、z-image-turboで生成。
+
+---
+
+## 商品広告 <a id="product"></a>
+
+### 高級腕時計プロダクト
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_fa03b01bc7b748bcae9e9b46e10962b2_0.webp" width="500" />
+
+> 精緻な高級腕時計のプロダクトレンダリング、シルバーの文字盤、ダイヤモンド装飾、エレガントな木目の背景、プロフェッショナルなフォトスタイル、高精細ディテール。
+
+### 高級スマートフォン製品写真
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_8868a5ed909341c6b5c963a8a7b93122_0.webp" width="500" />
+
+> 高級スマートフォンのプロダクトフォト、カメラやスクリーンなどのディテール表現、自然な反射効果、シンプルな背景。
+
+### 高級腕時計ディスプレイ
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_490a52624b7a4147bb4d41b87f999bb9_0.webp" width="500" />
+
+> 木製テーブルに置かれた高級腕時計、精巧なディテールと柔らかな影、プロフェッショナルなプロダクトショット。
+
+### エコプロダクト広告
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_570583ffe10d4e2580c437e70fbcb2a5_0.webp" width="500" />
+
+> エコフレンドリーなリユーザブルウォーターボトルの広告ポスター、透き通る水とグリーンリーフ、ミニマリストスタイルと太字テキスト、z-image-turboに最適化。
+
+### スマートホームデバイス広告
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_0eeede99188d45d4be147f5aff7d9657_0.webp" width="500" />
+
+> スマートホーム防犯カメラのプロダクト広告、テクノロジーが統合されたモダンハウス、リアルなレンダリングと安心感のある雰囲気、z-image-turboで作成。
+
+### フィットネス機器広告
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_86721e596bd4438fa0686584974c4bf8_0.webp" width="500" />
+
+> ハイエンドトレッドミルのコマーシャル広告、アクション中のアスリートとモチベーショナルクォート、ハイエナジーカラーとシャープなディテール、z-image-turbo使用。
+
+### キッチン家電広告
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_e40d3ed94337410da44ea461b8e1996b_0.webp" width="500" />
+
+> 最新型ブレンダーのプロダクト広告、新鮮なフルーツがスプラッシュとともにブレンドされるシーン、明るいキッチンセッティング、z-image-turbo使用。
+
+### ウェルネスサプリメント広告
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_3cfbe955da424792880f5ce16c4e608c_0.webp" width="500" />
+
+> 天然ビタミンのコマーシャル広告、エネルギーオーラに包まれた健康的な人々、穏やかな自然の背景、z-image-turbo使用。
+
+### ゲーム機広告
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_6e80d7362ce04c3296e8a7fd29fe2277_0.webp" width="500" />
+
+> 次世代ゲーム機のプロダクト広告、没入感のあるゲームプレイシーンと鮮やかなグラフィックス、興奮するゲーマーたち、z-image-turbo使用。
+
+### ウェアラブルテック広告
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_5e7b6d4aada545da9ba6ab2097293715_0.webp" width="500" />
+
+> スマートウォッチのコマーシャル広告、公園でランニング中のフィットネストラッキング表示、データオーバーレイとモダンデザイン、z-image-turbo使用。
+
+### ホームデコア製品広告
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_3377352a0d2843668872d72bc59e4881_0.webp" width="500" />
+
+> 花瓶やクッションなどスタイリッシュなホームデコアアイテムの広告、居心地の良いリビングルームセッティングと柔らかな照明、z-image-turbo使用。
+
+### エレクトロニクスバンドル広告
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_c58d90869c624522b5c4e7e5ea69da7c_0.webp" width="500" />
+
+> ワイヤレスヘッドホンと充電器のバンドルプロダクト広告、アーティスティックに配置されたテックガジェットとハイテクな輝き、z-image-turbo使用。
+
+### アウトドアギア広告
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_6a1add8860f54cf6b8ddaedae6c2409a_0.webp" width="500" />
+
+> ハイキングバックパックの広告、山でギアにフォーカスした冒険者、リアルなテクスチャーと自然の風景、z-image-turbo使用。
 
 ---
 
@@ -824,70 +936,6 @@
 <img src="https://storage.tiktomato.com/uploads/20260415/zimage_4a33ccf0903f4beb9f42f7ace1d3ac64_0.webp" width="500" />
 
 > ファンタジーとSFの融合、魔法の都市でレーザーガンを使うエルフたち、アニメイラスト、要素のクリエイティブなブレンド。
-
----
-
-## コミック <a id="comic"></a>
-
-### スーパーヒーローコミック
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_29e2164a31b743b3abf2f54c207493d8_0.webp" width="500" />
-
-> 都市景観の中でヴィランと戦うスーパーヒーローのダイナミックなコミックパネル、力強い線画、アクションポーズ、吹き出し、クラシックなマーベルスタイル。
-
-### 冒険コミックストリップ
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_c3382c94669a4522a16cb759f5f9bddd_0.webp" width="500" />
-
-> ジャングルの探検家を描いた4コマ漫画、宝物との遭遇、大袈裟な表情、楽しいストーリー展開。
-
-### スーパーヒーロー漫画
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_4b1330ee8c2d451081695710427b37bc_0.webp" width="500" />
-
-> 都市で戦うスーパーヒーローの漫画シーン、ダイナミックなアクション、爆発エフェクト、強いカラーコントラスト。
-
-### 探偵物語コミック
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_3886580b59f64b729382cfcb05302b0e_0.webp" width="500" />
-
-> サスペンスフルなシーンの探偵物語コミックパネル、影のある人物と手がかり、フィルム・ノワールスタイル。
-
-### 漫画ヒーローアドベンチャー
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_a39adc6c71a04713970fca886789156d_0.webp" width="500" />
-
-> 漫画スタイルの冒険に出る若いヒーロー、古代遺跡の探索、謎のアーティファクトと隠された危険、ダイナミックなポーズ、モノクロの陰影表現。
-
-### SFサイバーパンクシティ
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_603827da165a461f97bd09da0fefd961_0.webp" width="500" />
-
-> 黄昏時の賑やかなサイバーパンクシティ、ホログラフィック広告と飛行ドローン、SFマンガイラスト、ネオンカラー、ハイエナジーな雰囲気。
-
-### 漫画探偵ストーリー
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_270ee19dc18b4d3a8cea085d4873ad7d_0.webp" width="500" />
-
-> 雨の街で謎を解く漫画スタイルの探偵、影とサスペンス、精緻な表情描写、フィルム・ノワールの影響。
-
-### 漫画超常バトル
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_fa5963bd4cfb43849ef680f1b2891e27_0.webp" width="500" />
-
-> 漫画の超常バトルシーン、幽霊と戦士、ダークトーン、高速のモーション、精巧な線画。
-
-### SFエイリアン遭遇
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_d0315a35c6cf48daafe5154fc86a586a_0.webp" width="500" />
-
-> 宇宙船上でエイリアンと遭遇する人類、SFマンガスタイル、緊張感のある雰囲気、精緻なクリーチャーデザイン、影のある人物。
-
-### 漫画エピッククエスト
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_60054ce72cb24ff4a3414896f3e103d2_0.webp" width="500" />
-
-> 漫画スタイルの壮大な冒険の旅に出る一行、神話上の獣との対峙、冒険心溢れる、パネル風のコンポジション。
 
 ---
 

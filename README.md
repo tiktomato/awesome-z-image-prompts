@@ -2,7 +2,7 @@
 
 # Awesome Z-Image Prompts
 
-> 160 curated prompts for Z-Image Turbo AI image generation with preview images. Updated regularly.
+> 166 curated prompts for Z-Image Turbo AI image generation with preview images. Updated regularly.
 
 [![GitHub Stars](https://img.shields.io/github/stars/tiktomato/awesome-z-image-prompts?style=for-the-badge)](https://github.com/tiktomato/awesome-z-image-prompts)
 
@@ -10,394 +10,38 @@ Try these prompts on [TikTomato](https://tiktomato.com/model/z-image-turbo) — 
 
 ## Categories
 
+- [Photography](#photography) (31)
+- [Infographic](#infographic) (11)
+- [Poster / Flyer](#poster) (15)
+- [Comic / Storyboard](#comic) (11)
 - [Profile / Avatar](#avatar) (4)
 - [Social Media](#social) (10)
-- [Infographic](#infographic) (9)
 - [YouTube Thumbnail](#thumbnail) (8)
-- [Poster / Flyer](#poster) (14)
 - [Product Ad](#product) (13)
-- [Photography](#photography) (29)
 - [Food](#food) (9)
 - [Architecture](#architecture) (13)
 - [Art / Creative](#art) (18)
-- [Comic / Storyboard](#comic) (10)
 - [App / Web Design](#ui) (23)
 
 ---
 
-## Profile / Avatar <a id="avatar"></a>
-
-### Fantasy Warrior Avatar
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_68ed6e28bb744ae8b68ea46cc065567d_0.webp" width="500" />
-
-> A highly detailed digital avatar of a fierce female warrior with glowing eyes, holding a sword, in a dark fantasy style, intricate armor details, high resolution.
-
-### Sci-Fi Alien Avatar
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_605322e956784dd39f1cd7ef39cce4cf_0.webp" width="500" />
-
-> A futuristic avatar of an alien with multiple eyes and tentacles, in a cyberpunk setting, glowing neon details, high-tech elements.
-
-### 帅气男性头像
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_721a4d745e13469ba925c9dc146d5bef_0.webp" width="500" />
-
-> 一个帅气的年轻男性头像，戴着眼镜，背景是城市夜景，细节丰富，照明柔和
-
-### 幻想精灵头像
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_def40e2271e34342989a8c833e631a2b_0.webp" width="500" />
-
-> A fantasy character avatar with elf ears and mystical armor, detailed facial features, magical background
-
----
-
-## Social Media <a id="social"></a>
-
-### Social Media Banner
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_6f54c7c82f2142df94220d2307f446b7_0.webp" width="500" />
-
-> A vibrant social media banner for a tech conference, featuring abstract geometric shapes, blue and green colors, modern fonts, and icons of laptops and networks.
-
-### Community Social Post
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_84b535a14c3c4e3da41a5f1fdfed1c58_0.webp" width="500" />
-
-> A engaging social media post graphic for a community event, with diverse people interacting, positive messages, colorful and inclusive design.
-
-### 朋友聚会社交照
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_ce573cddefc1490cbecc4e1683d16adc_0.webp" width="500" />
-
-> 社交媒体上的朋友聚会照片，背景是咖啡店，大家笑容满面，氛围轻松
-
-### Social Media Awareness Post
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_fb77ce31d6da4e48bc7557d7ed68f6c7_0.webp" width="500" />
-
-> Generate a social media image with z-image-turbo: a vibrant post about climate change, showing melting icebergs and diverse people holding signs, with text 'Act Now' in bold font, suitable for Instagram.
-
-### Environmental Social Graphic
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_84449289275946aebdbe754e00e26585_0.webp" width="500" />
-
-> Create a social media graphic using z-image-turbo: illustrate forest conservation efforts with trees, animals, and recycling symbols, overlaid with 'Save Our Planet' text, in eco-friendly colors.
-
-### Health Tips Social Post
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_da30f2df43294b1597d90c6c48921913_0.webp" width="500" />
-
-> Design a social media post with z-image-turbo: depict healthy eating habits with fresh fruits, vegetables, and a balanced plate, including tips text and a share button icon.
-
-### Motivational Social Image
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_b9248d7ba690425cbda9a51a089f4f84_0.webp" width="500" />
-
-> Generate a social media image using z-image-turbo: show a diverse group achieving goals, with inspirational quotes, fitness elements, and hashtags for Twitter.
-
-### Travel Social Post
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_b97fb98333aa4d22a9a11916399e23ad_0.webp" width="500" />
-
-> Make a social media graphic with z-image-turbo: feature exotic beaches, travel tips, and a world map overlay, with text 'Wanderlust Adventures' for Instagram stories.
-
-### 社交媒体环保海报
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_8e5964706c8540e6ae74e184ccf256bd_0.webp" width="500" />
-
-> 创建社交媒体内容：以绿色主题展示环境保护图，包含树木、动物和口号 '保护地球'，适合微信分享，使用 z-image-turbo。
-
-### 社交媒体时尚分享
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_b99a5fb4f75046d58f85e42c2db84549_0.webp" width="500" />
-
-> 制作社交媒体图片：展示流行时尚搭配、模特和购物图标，添加 '潮流趋势' 文字，优化为微博内容，使用 z-image-turbo。
-
----
-
-## Infographic <a id="infographic"></a>
-
-### Health Infographic Design
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_0ca02add30bf4746ae85f2345fc6b9fa_0.webp" width="500" />
-
-> An informative infographic on healthy eating, with charts showing nutrient intake, colorful illustrations of fruits and vegetables, simple layout for easy reading.
-
-### 气候变化信息图
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_f6f85c8f1d6b4d7ba8aa2f71823ffabf_0.webp" width="500" />
-
-> 关于气候变化的信息图表，包含图表和图标，颜色警示性强，易懂布局
-
-### Tech Growth Infographic
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_0b985a21810343548697124a1eb43781_0.webp" width="500" />
-
-> Create an infographic using z-image-turbo: visualize global tech industry growth from 2010 to 2023 with bar charts, line graphs, and icons for AI, blockchain, and cloud computing, in a clean modern style with blue and green colors.
-
-### Data Stats Infographic
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_88d0f949e80941f89e62b3d2ad3a2e95_0.webp" width="500" />
-
-> Produce an infographic with z-image-turbo: display social media usage statistics for 2023, including pie charts for platforms like TikTok and Twitter, icons for users, and a futuristic design.
-
-### Market Trends Infographic
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_22dd55473fa24a63b92a7025e89e514b_0.webp" width="500" />
-
-> Generate an infographic using z-image-turbo: chart e-commerce market trends with upward arrows, sales data graphs, and product icons, styled in minimalistic black and white.
-
-### Economy Data Infographic
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_3191d7aa8ba1420b9a5e07fdf3e34afb_0.webp" width="500" />
-
-> Produce an infographic with z-image-turbo: illustrate global economy indicators like GDP and inflation rates with maps, bar graphs, and currency symbols in a professional layout.
-
-### Education Infographic
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_40d9bab4e8df483eb96bdc0129f50400_0.webp" width="500" />
-
-> Create an infographic using z-image-turbo: visualize online learning statistics, including enrollment charts, book icons, and growth trends in bright educational colors.
-
-### 科技趋势信息图
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_00dbf74a0384453fb0b16bf540c7c827_0.webp" width="500" />
-
-> 使用 z-image-turbo 生成信息图：展示人工智能发展趋势，包括图表、图标和数据统计，采用现代蓝白配色，主题为 'AI 未来展望'。
-
-### 健康数据信息图
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_ff1b3ec8674f4b3985b10961bc20358e_0.webp" width="500" />
-
-> 生成信息图：显示健康生活数据图表，包括饮食和运动图标，采用活力色彩，标题 '健康生活指南'，使用 z-image-turbo。
-
----
-
-## YouTube Thumbnail <a id="thumbnail"></a>
-
-### Gaming Thumbnail Art
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_be957669daed4fb393da01e39eda0e8f_0.webp" width="500" />
-
-> 一个动态的游戏缩略图，展示未来主义城市背景下的英雄人物，红色和黑色调，爆炸效果，高清细节，适合 YouTube 视频。
-
-### 科技教程缩略图
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_73d3660112e145cabea47a362e78e960_0.webp" width="500" />
-
-> YouTube 视频缩略图，主题是科技教程，包含设备图标和文字，视觉吸引人
-
-### YouTube Gaming Thumbnail
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_175d91d67da54e13975894fdd443fcb3_0.webp" width="500" />
-
-> Design a YouTube thumbnail using z-image-turbo: a dynamic scene of a gamer playing Fortnite, with explosive effects, the title 'Epic Win Strategies' in red text, and a call-to-action button.
-
-### Tutorial Video Thumbnail
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_70211a425b114736abce3a15f0374b97_0.webp" width="500" />
-
-> Make a YouTube thumbnail with z-image-turbo: show a step-by-step coding tutorial, featuring a laptop screen with code snippets, a curious avatar, and text 'Learn Python Fast'.
-
-### Music Review Thumbnail
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_dd0f3eeb27274cbea4df7cec2c05b55b_0.webp" width="500" />
-
-> Create a YouTube thumbnail using z-image-turbo: feature a album cover of a pop star with neon lights, headphones, and text 'Top 10 Hits 2023' in glowing font.
-
-### Cooking Video Thumbnail
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_988d7de343e4412694cd546d3d6be5c3_0.webp" width="500" />
-
-> Design a YouTube thumbnail with z-image-turbo: display a chef preparing a pasta dish, with steam effects, ingredients list, and text 'Easy Italian Recipes'.
-
-### Fitness Challenge Thumbnail
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_bc1d83943abe493cad48afa44cab9f99_0.webp" width="500" />
-
-> Generate a YouTube thumbnail using z-image-turbo: show athletes in a workout session, with sweat effects, timer, and text '30-Day Fitness Challenge'.
-
-### YouTube 游戏缩略图
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_c5c8c5135f6144e8a2f62768f77758ee_0.webp" width="500" />
-
-> 设计 YouTube 缩略图：展示游戏场景如 PUBG 战场，添加爆炸效果和文字 '终极生存指南'，通过 z-image-turbo 生成。
-
----
-
-## Poster / Flyer <a id="poster"></a>
-
-### Eco Poster Campaign
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_3ef5db31e60a485b80984a099dcb5653_0.webp" width="500" />
-
-> A motivational environmental poster with a forest scene, endangered animals, bold text 'Save the Planet', in a realistic style with soft lighting.
-
-### Music Festival Poster
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_1b27454911d746d38f6ba9b589b58432_0.webp" width="500" />
-
-> A colorful poster for a rock music festival, featuring band silhouettes, stage lights, date and venue text, energetic vibe.
-
-### 环保宣传海报
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_c620290c91e14b46b71b1504b16a0b68_0.webp" width="500" />
-
-> 一个环境保护主题的海报，颜色鲜艳，包含地球图像和绿色元素，文字醒目，风格现代化
-
-### 摇滚乐队海报
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_c551ae6930a94b5b9a7502404a08dbd5_0.webp" width="500" />
-
-> A concert poster for a rock band, featuring band members and electric guitars, bold typography
-
-### Tech Gadget Poster
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_21318de8c1d1411b8828668e56fd54ee_0.webp" width="500" />
-
-> A high-resolution poster for the latest wireless earbuds, showcasing futuristic design with neon lights and dynamic action poses, generated with z-image-turbo for commercial use.
-
-### Fashion Brand Poster
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_1f077acc97c6447abc8b0bf262256aea_0.webp" width="500" />
-
-> A commercial poster for a luxury fashion brand, displaying elegant dresses on models in a urban setting, with dramatic lighting and gold accents, using z-image-turbo for high detail.
-
-### Beauty Product Poster
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_22057f235e5d4460bf37384e18e1a466_0.webp" width="500" />
-
-> A vibrant poster advertising organic skincare products, with close-up images of glowing skin and natural ingredients, in a soft pastel color scheme via z-image-turbo.
-
-### Travel Agency Poster
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_b2676b9006ac4a34a0665ba6013613eb_0.webp" width="500" />
-
-> A promotional poster for a travel agency, depicting exotic beaches and adventures, with tropical colors and enticing text, generated by z-image-turbo for engagement.
-
-### Automotive Poster
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_d1e6f9bf45c44325a656385b541028f2_0.webp" width="500" />
-
-> A dynamic poster for electric cars, featuring sleek vehicles on a city street at night with neon reflections, high-resolution output from z-image-turbo.
-
-### Book Launch Poster
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_e14960b688154d42b109521703fd008b_0.webp" width="500" />
-
-> Poster for a new sci-fi novel, with cosmic elements and a mysterious figure, bold fonts and interstellar colors, rendered with z-image-turbo.
-
-### Restaurant Promotion Poster
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_887205712da246899766aa8d66fef8ef_0.webp" width="500" />
-
-> A appetizing poster for a new restaurant, featuring gourmet dishes with steam and aromas, warm lighting and menu highlights using z-image-turbo.
-
-### Event Sponsorship Poster
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_dd0922790c2c4fbc9525f7d3d7111676_0.webp" width="500" />
-
-> Poster for a music festival sponsorship, with stage lights, crowd energy and band silhouettes, vibrant and dynamic style via z-image-turbo.
-
-### Beverage Brand Poster
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_d984002322ee47b78765d9312d97c975_0.webp" width="500" />
-
-> A refreshing poster for a new energy drink, showing athletes in motion with fizzy effects and bold branding, generated with z-image-turbo.
-
-### Movie Promotion Poster
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_257d408bc35348b0bd0acb9d5b95e000_0.webp" width="500" />
-
-> Commercial poster for an action movie, featuring heroes in epic battles with explosions and dramatic poses, detailed rendering from z-image-turbo.
-
----
-
-## Product Ad <a id="product"></a>
-
-### Luxury Watch Product
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_fa03b01bc7b748bcae9e9b46e10962b2_0.webp" width="500" />
-
-> 一个精致的奢侈手表产品渲染，银色表盘，钻石装饰，放在优雅的木质背景上，专业摄影风格，高清细节。
-
-### 高端手机产品照
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_8868a5ed909341c6b5c963a8a7b93122_0.webp" width="500" />
-
-> 一个高端智能手机的产品照，展示细节如摄像头和屏幕，反光效果自然，背景简约
-
-### 奢侈手表展示
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_490a52624b7a4147bb4d41b87f999bb9_0.webp" width="500" />
-
-> A luxury watch on a wooden table, with intricate details and soft shadows, professional product shot
-
-### Eco Product Ad
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_570583ffe10d4e2580c437e70fbcb2a5_0.webp" width="500" />
-
-> An advertisement poster for eco-friendly reusable water bottles, featuring crystal clear water and green leaves, in a minimalist style with bold text, optimized for z-image-turbo.
-
-### Smart Home Device Ad
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_0eeede99188d45d4be147f5aff7d9657_0.webp" width="500" />
-
-> Product advertisement for smart home security cameras, showing a modern house with integrated tech, realistic rendering and secure vibes, created with z-image-turbo.
-
-### Fitness Equipment Ad
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_86721e596bd4438fa0686584974c4bf8_0.webp" width="500" />
-
-> Commercial advertisement for high-end treadmill, featuring athletes in action with motivational quotes, high-energy colors and sharp details using z-image-turbo.
-
-### Kitchen Appliance Ad
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_e40d3ed94337410da44ea461b8e1996b_0.webp" width="500" />
-
-> Product ad for a state-of-the-art blender, showing fresh fruits being blended with splashes, in a kitchen setting with bright lighting via z-image-turbo.
-
-### Wellness Supplement Ad
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_3cfbe955da424792880f5ce16c4e608c_0.webp" width="500" />
-
-> Commercial advertisement for natural vitamins, illustrating healthy people with energy auras, in a serene nature background using z-image-turbo.
-
-### Gaming Console Ad
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_6e80d7362ce04c3296e8a7fd29fe2277_0.webp" width="500" />
-
-> Product advertisement for next-gen gaming console, showing immersive gameplay scenes with vibrant graphics and excited gamers via z-image-turbo.
-
-### Wearable Tech Ad
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_5e7b6d4aada545da9ba6ab2097293715_0.webp" width="500" />
-
-> Commercial ad for smart watches, displaying fitness tracking on a runner in a park, with data overlays and modern design from z-image-turbo.
-
-### Home Decor Product Ad
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_3377352a0d2843668872d72bc59e4881_0.webp" width="500" />
-
-> Advertisement for stylish home decor items like vases and cushions, in a cozy living room setup with soft lighting using z-image-turbo.
-
-### Electronics Bundle Ad
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_c58d90869c624522b5c4e7e5ea69da7c_0.webp" width="500" />
-
-> Product ad for a bundle of wireless headphones and chargers, with tech gadgets arranged artistically and high-tech glow, via z-image-turbo.
-
-### Outdoor Gear Ad
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_6a1add8860f54cf6b8ddaedae6c2409a_0.webp" width="500" />
-
-> Advertisement for hiking backpacks, showing adventurers on mountains with gear in focus, realistic textures and natural landscapes using z-image-turbo.
-
----
-
 ## Photography <a id="photography"></a>
+
+### Summer Dune Portrait
+
+<img src="https://storage.tiktomato.com/prompts/z-image-turbo/z--161_0.jpg" width="500" />
+
+> A busty young woman stands centrally in a candid, outdoor snapshot that evokes the raw aesthetic of a high-quality smartphone camera. (random editorial pose). professional grain She wears a textured, black hat with "DANJI" text that casts a partial shadow over her forehead and stunning natural cyan eyes. Her long, blonde red hair cascades naturally over her shoulders, framing a face characterized by natural dermal texture and faint sun-induced pigmentation. She is dressed in a strapless bandeau bikini top featuring a green and white polka-dot pattern, which is knotted at the center of her oversized chest. Her bikini bottoms are a solid orange with side ties resting on her hips (super small waist). Her skin exhibits a deep, bronzed tan that contrasts sharply with distinct, pale tan lines visible on her big generous upper chest and shoulders, slightly revealing the outline of previous swimwear straps. The sunlight highlights the microscopic topography of her skin, accentuating fine vellus hair on her arms and the natural sheen of perspiration and valorizing her fit abs with visible linea alba. Her left wrist is adorned with a layered metallic bracelet that catches the daylight. She stands on a sand dune in the middle of Maspalomas Dunes located on the south coast of the island of Gran Canaria, Province of Las Palmas, in the Canary Islands. The lighting is direct and unsoftened, creating strong contrast and authentic shadows typical of a casual vacation photo. The image quality retains a natural grain, avoiding the artificial smoothness of studio photography. Skinny supermodel vibes The skin is slightly subtle oiled or wet from sea drops. sexy random pose, editorial vibes
+
+— via [https://x.com/DanjiTosaka/status/2027109853580419405](https://x.com/DanjiTosaka/status/2027109853580419405)
+
+### Popsicle Beach Snapshot
+
+<img src="https://storage.tiktomato.com/prompts/z-image-turbo/z--162_0.jpg" width="500" />
+
+> A busty young woman stands centrally in a candid, outdoor snapshot that evokes the raw aesthetic of a high-quality smartphone camera. She wears a textured, black hat with "DANJI" text that casts a partial shadow over her forehead and stunning natural cyan eyes. Her long, blonde red hair cascades naturally over her shoulders, framing a face characterized by natural dermal texture and faint sun-induced pigmentation. She is dressed in a strapless bandeau bikini top featuring a green and white polka-dot pattern, which is knotted at the center of her chest. Her bikini bottoms are a solid orange with side ties resting on her hips . Her skin exhibits a deep, bronzed tan that contrasts sharply with distinct, pale tan lines visible on her big generous upper chest and shoulders, slightly revealing the outline of previous swimwear straps. The sunlight highlights the microscopic topography of her skin, accentuating fine vellus hair on her arms and the natural sheen of perspiration and valorizing her fit abs with visible linea alba. Her left wrist is adorned with a layered metallic bracelet that catches the daylight. In one hand she is holding a delicious wet blue popsicle. She stands on a sand dune in the middle of Maspalomas Dunes located on the south coast of the island of Gran Canaria, Province of Las Palmas, in the Canary Islands. The lighting is direct and unsoftened, creating strong contrast and authentic shadows typical of a casual vacation photo. The image quality retains a natural grain, avoiding the artificial smoothness of studio photography. Supermodel vibes The skin is slightly subtle oiled or wet from sea drops
+
+— via [https://x.com/DanjiTosaka/status/2023029989336301608](https://x.com/DanjiTosaka/status/2023029989336301608)
 
 ### Urban Street Photography
 
@@ -572,6 +216,474 @@ Try these prompts on [TikTomato](https://tiktomato.com/model/z-image-turbo) — 
 <img src="https://storage.tiktomato.com/uploads/20260415/zimage_4b977daaead342c4bcd843aa9080eeb4_0.webp" width="500" />
 
 > Detailed photography of potted plants in a stylish interior, with architectural lines and natural shadows, z-image-turbo generated.
+
+---
+
+## Infographic <a id="infographic"></a>
+
+### Isometric Developer Chaos
+
+<img src="https://storage.tiktomato.com/prompts/z-image-turbo/z--163_0.jpg" width="500" />
+
+> 为我生成一张极具细节和叙事感的【3D 等距微缩模型图 (Isometric Diorama)】。画面展示的核心空间主题是「{这里填入主题}」，整体以一个漂浮在空中的“故事方块 (Story Cube)”呈现。视角必须是严格的 45 度等距视角（Isometric View），像 3D 建模软件里的等距预览那样，没有传统透视缩放。将房间或建筑的前墙和/或天花板整齐切开，从外部清晰看到内部结构、家具布置和生活痕迹，就像一个被掀开外壳的微缩模型房间。画面中可以安排一个正在发生的小动作，例如：一只猫蜷缩在沙发上睡觉、电脑屏幕正亮着、炉子里缓缓冒出烟雾等，让空间看起来“正在被使用”。室内设计风格要与「{主题}」高度一致：如果是炼金术士的秘密小店，就要有拥挤的药剂瓶、羊皮纸卷、古书、炼金器具；如果是哥特式吸血鬼的卧室，就有尖拱窗、深色天鹅绒帷幔、烛台和古董家具；如果是废弃太空站指挥舱，就充满老旧的控制台、闪烁的屏幕、悬挂的电缆和漂浮的小工具。内部空间必须采用“有组织的混乱 (Organized Clutter)”美学：高密度、高细节的杂物和个人物品遍布房间各处，让画面在每个角落都有值得细看的小细节。可以加入一个小比例、风格化的人物或 Q 版角色，在房间里做符合主题的日常行为，为画面增加故事感和尺度感。光线采用柔和的体积光 (Volumetric Lighting)：主要光源可以来自一扇窗户、天花板灯、电脑显示器、魔法阵、炉火或霓虹灯，根据「{主题}」自行匹配。光线需要在空气中形成可见的光束和轻微的雾感，让房间看起来温暖、治愈或略带神秘。材质表现要有 3D 渲染的精致感（类似 Blender/Cinema4D/Voxel 风格），强调木材纹理、金属反光、玻璃通透感以及布艺的褶皱与柔软度，让整个等距空间像一件可以被拾起端详的精致微缩模型。画面为横版 16:9，高分辨率，细节丰富。
+
+— via [https://x.com/Ali_TongyiLab/status/1999069317581984186](https://x.com/Ali_TongyiLab/status/1999069317581984186)
+
+### Chaotic Developer Setup
+
+<img src="https://storage.tiktomato.com/prompts/z-image-turbo/z--166_0.jpg" width="500" />
+
+> 为我生成一张极具细节和叙事感的【3D 等距微缩模型图 (Isometric Diorama)】。画面展示的核心空间主题是「chaotic good developer setup」，整体以一个漂浮在空中的“故事方块 (Story Cube)”呈现。视角必须是严格的 45 度等距视角（Isometric View），像 3D 建模软件里的等距预览那样，没有传统透视缩放。将房间或建筑的前墙和/或天花板整齐切开，从外部清晰看到内部结构、家具布置和生活痕迹，就像一个被掀开外壳的微缩模型房间。画面中可以安排一个正在发生的小动作，例如：一只猫蜷缩在沙发上睡觉、电脑屏幕正亮着、炉子里缓缓冒出烟雾等，让空间看起来“正在被使用”。室内设计风格要与「chaotic good developer setup」高度一致：充满老旧的控制台、闪烁的屏幕、悬挂的电缆和漂浮的小工具。内部空间必须采用“有组织的混乱 (Organized Clutter)”美学：高密度、高细节的杂物和个人物品遍布房间各处，让画面在每个角落都有值得细看的小细节。可以加入一个小比例、风格化的人物或 Q 版角色，在房间里做符合主题的日常行为，为画面增加故事感和尺度感。光线采用柔和的体积光 (Volumetric Lighting)：主要光源可以来自一扇窗户、天花板灯、电脑显示器、魔法阵、炉火或霓虹灯，根据「主题」自行匹配。光线需要在空气中形成可见的光束和轻微的雾感，让房间看起来温暖、治愈或略带神秘。材质表现要有 3D 渲染的精致感（类似 Blender/Cinema4D/Voxel 风格），强调木材纹理、金属反光、玻璃通透感以及布艺的褶皱与柔软度，让整个等距空间像一件可以被拾起端详的精致微缩模型。画面为横版 16:9，高分辨率，细节丰富。
+
+— via [https://x.com/Ali_TongyiLab/status/1999069317581984186](https://x.com/Ali_TongyiLab/status/1999069317581984186)
+
+### Health Infographic Design
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_0ca02add30bf4746ae85f2345fc6b9fa_0.webp" width="500" />
+
+> An informative infographic on healthy eating, with charts showing nutrient intake, colorful illustrations of fruits and vegetables, simple layout for easy reading.
+
+### 气候变化信息图
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_f6f85c8f1d6b4d7ba8aa2f71823ffabf_0.webp" width="500" />
+
+> 关于气候变化的信息图表，包含图表和图标，颜色警示性强，易懂布局
+
+### Tech Growth Infographic
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_0b985a21810343548697124a1eb43781_0.webp" width="500" />
+
+> Create an infographic using z-image-turbo: visualize global tech industry growth from 2010 to 2023 with bar charts, line graphs, and icons for AI, blockchain, and cloud computing, in a clean modern style with blue and green colors.
+
+### Data Stats Infographic
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_88d0f949e80941f89e62b3d2ad3a2e95_0.webp" width="500" />
+
+> Produce an infographic with z-image-turbo: display social media usage statistics for 2023, including pie charts for platforms like TikTok and Twitter, icons for users, and a futuristic design.
+
+### Market Trends Infographic
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_22dd55473fa24a63b92a7025e89e514b_0.webp" width="500" />
+
+> Generate an infographic using z-image-turbo: chart e-commerce market trends with upward arrows, sales data graphs, and product icons, styled in minimalistic black and white.
+
+### Economy Data Infographic
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_3191d7aa8ba1420b9a5e07fdf3e34afb_0.webp" width="500" />
+
+> Produce an infographic with z-image-turbo: illustrate global economy indicators like GDP and inflation rates with maps, bar graphs, and currency symbols in a professional layout.
+
+### Education Infographic
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_40d9bab4e8df483eb96bdc0129f50400_0.webp" width="500" />
+
+> Create an infographic using z-image-turbo: visualize online learning statistics, including enrollment charts, book icons, and growth trends in bright educational colors.
+
+### 科技趋势信息图
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_00dbf74a0384453fb0b16bf540c7c827_0.webp" width="500" />
+
+> 使用 z-image-turbo 生成信息图：展示人工智能发展趋势，包括图表、图标和数据统计，采用现代蓝白配色，主题为 'AI 未来展望'。
+
+### 健康数据信息图
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_ff1b3ec8674f4b3985b10961bc20358e_0.webp" width="500" />
+
+> 生成信息图：显示健康生活数据图表，包括饮食和运动图标，采用活力色彩，标题 '健康生活指南'，使用 z-image-turbo。
+
+---
+
+## Poster / Flyer <a id="poster"></a>
+
+### Classical Novel Diorama
+
+<img src="https://storage.tiktomato.com/prompts/z-image-turbo/z--164_0.jpg" width="500" />
+
+> 请为影视剧/小说《需要添加的名称》设计一张高品质的3D海报，需要先检索影视剧/小说信息和著名的片段场景。首先，请利用你的知识库检索这个影视剧/小说的内容，找出一个最具代表性的名场面或核心地点。在画面中央，将这个场景构建为一个精致的轴侧视角3D微缩模型。风格要采用梦工厂动画那种细腻、柔和的渲染风格。你需要还原当时的建筑细节、人物动态以及环境氛围，无论是暴风雨还是宁静的午后，都要自然地融合在模型的光影里。关于背景，不要使用简单的纯白底。请在模型周围营造一种带有淡淡水墨晕染和流动光雾的虚空环境，色调雅致，让画面看起来有呼吸感和纵深感，衬托出中央模型的珍贵。最后是底部的排版，请生成中文文字。居中写上小说名称，字体要有与原著风格匹配的设计感。在书名下方，自动检索并排版一句原著中关于该场景的经典描写或台词，字体使用优雅的衬线体。整体布局要像一个高级的博物馆藏品铭牌那样精致平衡。
+
+— via [https://x.com/Ali_TongyiLab/status/1998608853903036436](https://x.com/Ali_TongyiLab/status/1998608853903036436)
+
+### Eco Poster Campaign
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_3ef5db31e60a485b80984a099dcb5653_0.webp" width="500" />
+
+> A motivational environmental poster with a forest scene, endangered animals, bold text 'Save the Planet', in a realistic style with soft lighting.
+
+### Music Festival Poster
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_1b27454911d746d38f6ba9b589b58432_0.webp" width="500" />
+
+> A colorful poster for a rock music festival, featuring band silhouettes, stage lights, date and venue text, energetic vibe.
+
+### 环保宣传海报
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_c620290c91e14b46b71b1504b16a0b68_0.webp" width="500" />
+
+> 一个环境保护主题的海报，颜色鲜艳，包含地球图像和绿色元素，文字醒目，风格现代化
+
+### 摇滚乐队海报
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_c551ae6930a94b5b9a7502404a08dbd5_0.webp" width="500" />
+
+> A concert poster for a rock band, featuring band members and electric guitars, bold typography
+
+### Tech Gadget Poster
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_21318de8c1d1411b8828668e56fd54ee_0.webp" width="500" />
+
+> A high-resolution poster for the latest wireless earbuds, showcasing futuristic design with neon lights and dynamic action poses, generated with z-image-turbo for commercial use.
+
+### Fashion Brand Poster
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_1f077acc97c6447abc8b0bf262256aea_0.webp" width="500" />
+
+> A commercial poster for a luxury fashion brand, displaying elegant dresses on models in a urban setting, with dramatic lighting and gold accents, using z-image-turbo for high detail.
+
+### Beauty Product Poster
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_22057f235e5d4460bf37384e18e1a466_0.webp" width="500" />
+
+> A vibrant poster advertising organic skincare products, with close-up images of glowing skin and natural ingredients, in a soft pastel color scheme via z-image-turbo.
+
+### Travel Agency Poster
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_b2676b9006ac4a34a0665ba6013613eb_0.webp" width="500" />
+
+> A promotional poster for a travel agency, depicting exotic beaches and adventures, with tropical colors and enticing text, generated by z-image-turbo for engagement.
+
+### Automotive Poster
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_d1e6f9bf45c44325a656385b541028f2_0.webp" width="500" />
+
+> A dynamic poster for electric cars, featuring sleek vehicles on a city street at night with neon reflections, high-resolution output from z-image-turbo.
+
+### Book Launch Poster
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_e14960b688154d42b109521703fd008b_0.webp" width="500" />
+
+> Poster for a new sci-fi novel, with cosmic elements and a mysterious figure, bold fonts and interstellar colors, rendered with z-image-turbo.
+
+### Restaurant Promotion Poster
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_887205712da246899766aa8d66fef8ef_0.webp" width="500" />
+
+> A appetizing poster for a new restaurant, featuring gourmet dishes with steam and aromas, warm lighting and menu highlights using z-image-turbo.
+
+### Event Sponsorship Poster
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_dd0922790c2c4fbc9525f7d3d7111676_0.webp" width="500" />
+
+> Poster for a music festival sponsorship, with stage lights, crowd energy and band silhouettes, vibrant and dynamic style via z-image-turbo.
+
+### Beverage Brand Poster
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_d984002322ee47b78765d9312d97c975_0.webp" width="500" />
+
+> A refreshing poster for a new energy drink, showing athletes in motion with fizzy effects and bold branding, generated with z-image-turbo.
+
+### Movie Promotion Poster
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_257d408bc35348b0bd0acb9d5b95e000_0.webp" width="500" />
+
+> Commercial poster for an action movie, featuring heroes in epic battles with explosions and dramatic poses, detailed rendering from z-image-turbo.
+
+---
+
+## Comic / Storyboard <a id="comic"></a>
+
+### Fox Throne Fantasy
+
+<img src="https://storage.tiktomato.com/prompts/z-image-turbo/z--165_0.jpg" width="500" />
+
+> A fox wearing a tiny crown, sitting on a throne made of autumn leaves, studio lighting
+
+— via [https://x.com/GamerHashCom/status/2025593177499902287](https://x.com/GamerHashCom/status/2025593177499902287)
+
+### Superhero Comic Panel
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_29e2164a31b743b3abf2f54c207493d8_0.webp" width="500" />
+
+> A dynamic comic book panel of a superhero fighting villains in a cityscape, bold lines, action poses, speech bubbles, classic Marvel style.
+
+### Adventure Comic Strip
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_c3382c94669a4522a16cb759f5f9bddd_0.webp" width="500" />
+
+> A four-panel comic strip about an explorer in a jungle, encountering treasures, exaggerated expressions, fun narrative.
+
+### 超级英雄漫画
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_4b1330ee8c2d451081695710427b37bc_0.webp" width="500" />
+
+> 超级英雄在城市中战斗的漫画场景，动态动作，爆炸效果，色彩对比强烈
+
+### 侦探故事漫画
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_3886580b59f64b729382cfcb05302b0e_0.webp" width="500" />
+
+> A detective story comic panel with suspenseful scene, shadowy figures and clues, noir style
+
+### Manga Hero Adventure
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_a39adc6c71a04713970fca886789156d_0.webp" width="500" />
+
+> A young hero on an adventure in manga style, exploring ancient ruins, with mysterious artifacts and hidden dangers, dynamic poses, black and white shading.
+
+### Sci-Fi Cyberpunk City
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_603827da165a461f97bd09da0fefd961_0.webp" width="500" />
+
+> A bustling cyberpunk city at dusk, with holographic ads and flying drones, sci-fi manga illustration, neon colors, high energy atmosphere.
+
+### Manga Detective Story
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_270ee19dc18b4d3a8cea085d4873ad7d_0.webp" width="500" />
+
+> A detective in manga style solving a mystery in a rainy city, with shadows and suspense, detailed expressions, noir influences.
+
+### Manga Supernatural Fight
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_fa5963bd4cfb43849ef680f1b2891e27_0.webp" width="500" />
+
+> Supernatural beings in a manga fight scene, with ghosts and warriors, dark tones, high-speed motion, intricate line work.
+
+### Sci-Fi Alien Encounter
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_d0315a35c6cf48daafe5154fc86a586a_0.webp" width="500" />
+
+> Humans encountering aliens on a spaceship, sci-fi manga style, tense atmosphere, detailed creature designs, shadowy figures.
+
+### Manga Epic Quest
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_60054ce72cb24ff4a3414896f3e103d2_0.webp" width="500" />
+
+> A group on an epic quest in manga style, facing mythical beasts, adventurous spirit, panel-like composition.
+
+---
+
+## Profile / Avatar <a id="avatar"></a>
+
+### Fantasy Warrior Avatar
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_68ed6e28bb744ae8b68ea46cc065567d_0.webp" width="500" />
+
+> A highly detailed digital avatar of a fierce female warrior with glowing eyes, holding a sword, in a dark fantasy style, intricate armor details, high resolution.
+
+### Sci-Fi Alien Avatar
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_605322e956784dd39f1cd7ef39cce4cf_0.webp" width="500" />
+
+> A futuristic avatar of an alien with multiple eyes and tentacles, in a cyberpunk setting, glowing neon details, high-tech elements.
+
+### 帅气男性头像
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_721a4d745e13469ba925c9dc146d5bef_0.webp" width="500" />
+
+> 一个帅气的年轻男性头像，戴着眼镜，背景是城市夜景，细节丰富，照明柔和
+
+### 幻想精灵头像
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_def40e2271e34342989a8c833e631a2b_0.webp" width="500" />
+
+> A fantasy character avatar with elf ears and mystical armor, detailed facial features, magical background
+
+---
+
+## Social Media <a id="social"></a>
+
+### Social Media Banner
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_6f54c7c82f2142df94220d2307f446b7_0.webp" width="500" />
+
+> A vibrant social media banner for a tech conference, featuring abstract geometric shapes, blue and green colors, modern fonts, and icons of laptops and networks.
+
+### Community Social Post
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_84b535a14c3c4e3da41a5f1fdfed1c58_0.webp" width="500" />
+
+> A engaging social media post graphic for a community event, with diverse people interacting, positive messages, colorful and inclusive design.
+
+### 朋友聚会社交照
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_ce573cddefc1490cbecc4e1683d16adc_0.webp" width="500" />
+
+> 社交媒体上的朋友聚会照片，背景是咖啡店，大家笑容满面，氛围轻松
+
+### Social Media Awareness Post
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_fb77ce31d6da4e48bc7557d7ed68f6c7_0.webp" width="500" />
+
+> Generate a social media image with z-image-turbo: a vibrant post about climate change, showing melting icebergs and diverse people holding signs, with text 'Act Now' in bold font, suitable for Instagram.
+
+### Environmental Social Graphic
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_84449289275946aebdbe754e00e26585_0.webp" width="500" />
+
+> Create a social media graphic using z-image-turbo: illustrate forest conservation efforts with trees, animals, and recycling symbols, overlaid with 'Save Our Planet' text, in eco-friendly colors.
+
+### Health Tips Social Post
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_da30f2df43294b1597d90c6c48921913_0.webp" width="500" />
+
+> Design a social media post with z-image-turbo: depict healthy eating habits with fresh fruits, vegetables, and a balanced plate, including tips text and a share button icon.
+
+### Motivational Social Image
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_b9248d7ba690425cbda9a51a089f4f84_0.webp" width="500" />
+
+> Generate a social media image using z-image-turbo: show a diverse group achieving goals, with inspirational quotes, fitness elements, and hashtags for Twitter.
+
+### Travel Social Post
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_b97fb98333aa4d22a9a11916399e23ad_0.webp" width="500" />
+
+> Make a social media graphic with z-image-turbo: feature exotic beaches, travel tips, and a world map overlay, with text 'Wanderlust Adventures' for Instagram stories.
+
+### 社交媒体环保海报
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_8e5964706c8540e6ae74e184ccf256bd_0.webp" width="500" />
+
+> 创建社交媒体内容：以绿色主题展示环境保护图，包含树木、动物和口号 '保护地球'，适合微信分享，使用 z-image-turbo。
+
+### 社交媒体时尚分享
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_b99a5fb4f75046d58f85e42c2db84549_0.webp" width="500" />
+
+> 制作社交媒体图片：展示流行时尚搭配、模特和购物图标，添加 '潮流趋势' 文字，优化为微博内容，使用 z-image-turbo。
+
+---
+
+## YouTube Thumbnail <a id="thumbnail"></a>
+
+### Gaming Thumbnail Art
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_be957669daed4fb393da01e39eda0e8f_0.webp" width="500" />
+
+> 一个动态的游戏缩略图，展示未来主义城市背景下的英雄人物，红色和黑色调，爆炸效果，高清细节，适合 YouTube 视频。
+
+### 科技教程缩略图
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_73d3660112e145cabea47a362e78e960_0.webp" width="500" />
+
+> YouTube 视频缩略图，主题是科技教程，包含设备图标和文字，视觉吸引人
+
+### YouTube Gaming Thumbnail
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_175d91d67da54e13975894fdd443fcb3_0.webp" width="500" />
+
+> Design a YouTube thumbnail using z-image-turbo: a dynamic scene of a gamer playing Fortnite, with explosive effects, the title 'Epic Win Strategies' in red text, and a call-to-action button.
+
+### Tutorial Video Thumbnail
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_70211a425b114736abce3a15f0374b97_0.webp" width="500" />
+
+> Make a YouTube thumbnail with z-image-turbo: show a step-by-step coding tutorial, featuring a laptop screen with code snippets, a curious avatar, and text 'Learn Python Fast'.
+
+### Music Review Thumbnail
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_dd0f3eeb27274cbea4df7cec2c05b55b_0.webp" width="500" />
+
+> Create a YouTube thumbnail using z-image-turbo: feature a album cover of a pop star with neon lights, headphones, and text 'Top 10 Hits 2023' in glowing font.
+
+### Cooking Video Thumbnail
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_988d7de343e4412694cd546d3d6be5c3_0.webp" width="500" />
+
+> Design a YouTube thumbnail with z-image-turbo: display a chef preparing a pasta dish, with steam effects, ingredients list, and text 'Easy Italian Recipes'.
+
+### Fitness Challenge Thumbnail
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_bc1d83943abe493cad48afa44cab9f99_0.webp" width="500" />
+
+> Generate a YouTube thumbnail using z-image-turbo: show athletes in a workout session, with sweat effects, timer, and text '30-Day Fitness Challenge'.
+
+### YouTube 游戏缩略图
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_c5c8c5135f6144e8a2f62768f77758ee_0.webp" width="500" />
+
+> 设计 YouTube 缩略图：展示游戏场景如 PUBG 战场，添加爆炸效果和文字 '终极生存指南'，通过 z-image-turbo 生成。
+
+---
+
+## Product Ad <a id="product"></a>
+
+### Luxury Watch Product
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_fa03b01bc7b748bcae9e9b46e10962b2_0.webp" width="500" />
+
+> 一个精致的奢侈手表产品渲染，银色表盘，钻石装饰，放在优雅的木质背景上，专业摄影风格，高清细节。
+
+### 高端手机产品照
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_8868a5ed909341c6b5c963a8a7b93122_0.webp" width="500" />
+
+> 一个高端智能手机的产品照，展示细节如摄像头和屏幕，反光效果自然，背景简约
+
+### 奢侈手表展示
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_490a52624b7a4147bb4d41b87f999bb9_0.webp" width="500" />
+
+> A luxury watch on a wooden table, with intricate details and soft shadows, professional product shot
+
+### Eco Product Ad
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_570583ffe10d4e2580c437e70fbcb2a5_0.webp" width="500" />
+
+> An advertisement poster for eco-friendly reusable water bottles, featuring crystal clear water and green leaves, in a minimalist style with bold text, optimized for z-image-turbo.
+
+### Smart Home Device Ad
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_0eeede99188d45d4be147f5aff7d9657_0.webp" width="500" />
+
+> Product advertisement for smart home security cameras, showing a modern house with integrated tech, realistic rendering and secure vibes, created with z-image-turbo.
+
+### Fitness Equipment Ad
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_86721e596bd4438fa0686584974c4bf8_0.webp" width="500" />
+
+> Commercial advertisement for high-end treadmill, featuring athletes in action with motivational quotes, high-energy colors and sharp details using z-image-turbo.
+
+### Kitchen Appliance Ad
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_e40d3ed94337410da44ea461b8e1996b_0.webp" width="500" />
+
+> Product ad for a state-of-the-art blender, showing fresh fruits being blended with splashes, in a kitchen setting with bright lighting via z-image-turbo.
+
+### Wellness Supplement Ad
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_3cfbe955da424792880f5ce16c4e608c_0.webp" width="500" />
+
+> Commercial advertisement for natural vitamins, illustrating healthy people with energy auras, in a serene nature background using z-image-turbo.
+
+### Gaming Console Ad
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_6e80d7362ce04c3296e8a7fd29fe2277_0.webp" width="500" />
+
+> Product advertisement for next-gen gaming console, showing immersive gameplay scenes with vibrant graphics and excited gamers via z-image-turbo.
+
+### Wearable Tech Ad
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_5e7b6d4aada545da9ba6ab2097293715_0.webp" width="500" />
+
+> Commercial ad for smart watches, displaying fitness tracking on a runner in a park, with data overlays and modern design from z-image-turbo.
+
+### Home Decor Product Ad
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_3377352a0d2843668872d72bc59e4881_0.webp" width="500" />
+
+> Advertisement for stylish home decor items like vases and cushions, in a cozy living room setup with soft lighting using z-image-turbo.
+
+### Electronics Bundle Ad
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_c58d90869c624522b5c4e7e5ea69da7c_0.webp" width="500" />
+
+> Product ad for a bundle of wireless headphones and chargers, with tech gadgets arranged artistically and high-tech glow, via z-image-turbo.
+
+### Outdoor Gear Ad
+
+<img src="https://storage.tiktomato.com/uploads/20260415/zimage_6a1add8860f54cf6b8ddaedae6c2409a_0.webp" width="500" />
+
+> Advertisement for hiking backpacks, showing adventurers on mountains with gear in focus, realistic textures and natural landscapes using z-image-turbo.
 
 ---
 
@@ -824,70 +936,6 @@ Try these prompts on [TikTomato](https://tiktomato.com/model/z-image-turbo) — 
 <img src="https://storage.tiktomato.com/uploads/20260415/zimage_4a33ccf0903f4beb9f42f7ace1d3ac64_0.webp" width="500" />
 
 > A fusion of fantasy and sci-fi, with elves using laser guns in a magical city, anime illustration, creative blend of elements.
-
----
-
-## Comic / Storyboard <a id="comic"></a>
-
-### Superhero Comic Panel
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_29e2164a31b743b3abf2f54c207493d8_0.webp" width="500" />
-
-> A dynamic comic book panel of a superhero fighting villains in a cityscape, bold lines, action poses, speech bubbles, classic Marvel style.
-
-### Adventure Comic Strip
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_c3382c94669a4522a16cb759f5f9bddd_0.webp" width="500" />
-
-> A four-panel comic strip about an explorer in a jungle, encountering treasures, exaggerated expressions, fun narrative.
-
-### 超级英雄漫画
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_4b1330ee8c2d451081695710427b37bc_0.webp" width="500" />
-
-> 超级英雄在城市中战斗的漫画场景，动态动作，爆炸效果，色彩对比强烈
-
-### 侦探故事漫画
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_3886580b59f64b729382cfcb05302b0e_0.webp" width="500" />
-
-> A detective story comic panel with suspenseful scene, shadowy figures and clues, noir style
-
-### Manga Hero Adventure
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_a39adc6c71a04713970fca886789156d_0.webp" width="500" />
-
-> A young hero on an adventure in manga style, exploring ancient ruins, with mysterious artifacts and hidden dangers, dynamic poses, black and white shading.
-
-### Sci-Fi Cyberpunk City
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_603827da165a461f97bd09da0fefd961_0.webp" width="500" />
-
-> A bustling cyberpunk city at dusk, with holographic ads and flying drones, sci-fi manga illustration, neon colors, high energy atmosphere.
-
-### Manga Detective Story
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_270ee19dc18b4d3a8cea085d4873ad7d_0.webp" width="500" />
-
-> A detective in manga style solving a mystery in a rainy city, with shadows and suspense, detailed expressions, noir influences.
-
-### Manga Supernatural Fight
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_fa5963bd4cfb43849ef680f1b2891e27_0.webp" width="500" />
-
-> Supernatural beings in a manga fight scene, with ghosts and warriors, dark tones, high-speed motion, intricate line work.
-
-### Sci-Fi Alien Encounter
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_d0315a35c6cf48daafe5154fc86a586a_0.webp" width="500" />
-
-> Humans encountering aliens on a spaceship, sci-fi manga style, tense atmosphere, detailed creature designs, shadowy figures.
-
-### Manga Epic Quest
-
-<img src="https://storage.tiktomato.com/uploads/20260415/zimage_60054ce72cb24ff4a3414896f3e103d2_0.webp" width="500" />
-
-> A group on an epic quest in manga style, facing mythical beasts, adventurous spirit, panel-like composition.
 
 ---
 
